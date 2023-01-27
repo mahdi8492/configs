@@ -96,7 +96,7 @@ dns:
     - "*.ipv6.microsoft.com"
     - speedtest.cros.wr.pvp.net
 proxies:
-  {name: Cyber_0, server: samands.fabnet.site, port: 8880, type: vless, uuid: 7d98732e-c1bb-45c7-c727-97d2d5ce9eb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /opl#assss}}
+  - {name: Cyber_0, server: samands.fabnet.site, port: 8880, type: vless, uuid: 7d98732e-c1bb-45c7-c727-97d2d5ce9eb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /opl#assss}}
   - {name: Cyber_1, server: 43.154.34.49, port: 23183, type: vmess, uuid: b402a4af-285a-463e-c3a7-53f91efdec78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: Cyber_2, server: 139.99.91.95, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: Cyber_3, server: 144.24.88.101, port: 16833, type: vmess, uuid: f5425ccf-3946-4fb4-eb24-5393d78a392f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}

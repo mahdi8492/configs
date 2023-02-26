@@ -141,403 +141,399 @@ proxies:
   - {name: Cyber_46, server: 103.178.234.201, port: 41785, type: vmess, uuid: ce6e804e-3258-4cc1-a922-1c87a3886611, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: Cyber_47, server: 190.93.247.38, port: 2082, type: vmess, uuid: 082122a2-8479-4089-82f0-f32ba5fc5426, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bb, headers: {Host: hao.huaqian.icu}}}
   - {"name":"Cyber_48","server":"51.161.118.38","type":"ss","country":"🇨🇦 CA","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"Cyber_52","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_53","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_54","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_59","server":"212.38.189.174","type":"ss","country":"🇬🇧 GB","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_52","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_53","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_54","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_59","server":"212.38.189.174","type":"ss","country":"🇬🇧 GB","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"Cyber_62","server":"40.115.121.217","type":"ss","country":"🇮🇪 IE","port":25579,"password":"HzuatmQshRsy5W7DRCYrXN","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"Cyber_63","server":"185.160.26.91","type":"ss","country":"🇯🇵 JP","port":1662,"password":"Xs9ORT4j65b8HreZrg0p","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"Cyber_67","server":"13.124.119.204","type":"ss","country":"🇰🇷 KR","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_68","server":"85.208.108.60","type":"ss","country":"🇳🇱 NL","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_72","server":"85.208.108.22","type":"ss","country":"🇳🇱 NL","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_73","server":"85.208.108.18","type":"ss","country":"🇳🇱 NL","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_84","server":"85.208.108.59","type":"ss","country":"🇳🇱 NL","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_93","server":"139.162.41.174","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_63","server":"185.160.26.91","type":"ss","country":"🇯🇵 JP","port":1664,"password":"Xs9ORT4j65b8HreZrg0p","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"Cyber_67","server":"85.208.108.60","type":"ss","country":"🇳🇱 NL","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_68","server":"85.208.108.59","type":"ss","country":"🇳🇱 NL","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_71","server":"85.208.108.22","type":"ss","country":"🇳🇱 NL","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_76","server":"85.208.108.18","type":"ss","country":"🇳🇱 NL","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_92","server":"139.162.41.174","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_93","server":"81.90.189.41","type":"ss","country":"🇸🇬 SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
   - {"name":"Cyber_94","server":"139.162.5.19","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_95","server":"81.90.189.41","type":"ss","country":"🇸🇬 SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"Cyber_96","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_97","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_98","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_101","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_103","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_104","server":"38.91.102.30","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_106","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_107","server":"172.99.190.61","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_110","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_114","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_116","server":"54.187.181.151","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_117","server":"34.210.24.64","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_118","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_119","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_120","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_124","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_127","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_135","server":"13.215.191.190","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_136","server":"169.197.142.48","type":"ss","country":"🏁 ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_137","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_138","server":"169.197.141.187","type":"ss","country":"🏁 ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-  - {"type":"vmess","name":"Cyber_139","ws-opts":{"path":"/ws-path"},"server":"193.123.95.170","port":14471,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_141","ws-opts":{"path":"/chat"},"server":"vau1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_142","server":"170.64.133.209","port":443,"uuid":"76f6ed54-7f61-4407-f49d-dd33d07ebd8f","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_143","ws-opts":{"path":"/chat"},"server":"172.105.255.4","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_144","ws-opts":{"path":"/clientarea"},"server":"13.239.107.178","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_146","ws-opts":{"path":"/clientarea"},"server":"3.25.150.106","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_147","ws-opts":{"path":"/clientarea"},"server":"au-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_150","server":"134.195.196.143","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"Cyber_151","server":"134.195.196.85","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"ss","name":"Cyber_153","server":"134.195.196.19","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
-  - {"type":"ss","name":"Cyber_155","server":"134.195.196.231","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"Cyber_182","server":"134.195.196.107","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
-  - {"type":"ss","name":"Cyber_200","server":"134.195.196.178","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"Cyber_256","server":"ak1617.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"Cyber_257","ws-opts":{"path":"/ws-path"},"server":"132.145.99.228","port":13724,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_258","ws-opts":{"path":"/"},"server":"192.99.8.99","port":36005,"uuid":"05c38399-5296-4bf2-a606-1cec3b71c942","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_261","ws-opts":{"path":"/ws-path"},"server":"168.138.68.36","port":14252,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_266","ws-opts":{"path":"/clientarea"},"server":"35.183.42.25","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_267","ws-opts":{"path":"/clientarea"},"server":"ca-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_268","ws-opts":{"path":"/"},"server":"tcas.padra-holding.com","port":36005,"uuid":"05c38399-5296-4bf2-a606-1cec3b71c942","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_269","ws-opts":{"path":"/clientarea"},"server":"52.60.178.90","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_270","server":"72.140.224.195","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"Cyber_285","server":"42.225.20.18","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_286","server":"103.45.78.147","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_294","server":"103.45.78.241","port":10004,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_295","server":"103.45.78.187","port":3230,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_296","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"112.18.159.7","port":50207,"uuid":"b1478e24-4916-3abe-8f17-15931012ecbe","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_297","server":"103.45.78.185","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_298","server":"159.69.181.133","port":443,"uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"Cyber_299","server":"193.108.117.75","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"ss","name":"Cyber_301","server":"193.108.117.24","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"vmess","name":"Cyber_302","ws-opts":{"path":"/@hashmakvpn"},"server":"78.47.131.39","port":8081,"uuid":"503ff1d8-fe20-4dca-f4b4-073f80e439c8","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_311","server":"193.108.118.36","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"Cyber_313","server":"193.108.118.79","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"Cyber_314","server":"193.108.118.34","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"vmess","name":"Cyber_320","ws-opts":{"path":"/"},"server":"79.133.41.175","port":443,"uuid":"9b6f7da8-6638-414c-f5c1-78d245e9ae31","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_331","server":"193.108.118.30","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"Cyber_351","server":"217.182.198.219","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"vmess","name":"Cyber_353","ws-opts":{"path":"/vmess"},"server":"89.163.213.20","port":80,"uuid":"5668ff97-631f-4602-a13f-b56552c67abe","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_358","server":"162.55.217.113","port":22301,"uuid":"176ed834-75dc-4e4c-a536-f05479b39b3c","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_359","ws-opts":{"path":"/"},"server":"5.75.198.117","port":80,"uuid":"e30cf2d5-1210-4c9d-8c1b-6c9acb773579","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_376","ws-opts":{"path":"/vmws"},"server":"5.254.17.52","port":2087,"uuid":"01c60c90-af54-11ed-b2d8-1239d0255272","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_377","ws-opts":{"path":"/"},"server":"79.132.133.38","port":54458,"uuid":"31b022f2-5441-4e9a-ffe7-43fee7ab0688","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_380","ws-opts":{"path":"/clientarea"},"server":"3.75.89.69","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_382","server":"5.75.187.19","port":8801,"uuid":"392f8755-75e7-481e-927e-0f3aae34234e","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"ss","name":"Cyber_383","server":"85.114.138.92","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"Cyber_386","server":"135.181.172.225","port":30705,"cipher":"aes-256-gcm","password":"R2Lp3a4tgj"}
-  - {"type":"vmess","name":"Cyber_387","ws-opts":{"path":"/"},"server":"65.109.198.239","port":80,"uuid":"39456a8e-168f-4878-c239-bbe57be03518","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_388","ws-opts":{"path":"/"},"server":"65.109.213.45","port":80,"uuid":"cda69196-aa57-466d-c022-6db0227a28f4","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_391","server":"54.36.174.181","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"vmess","name":"Cyber_427","server":"51.77.215.62","port":40846,"uuid":"507e98ae-7922-4756-c953-34e5c573dda4","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"Cyber_472","server":"51.178.87.37","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"Cyber_484","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"vmess","name":"Cyber_488","ws-opts":{"path":"/"},"server":"5.135.43.119","port":58732,"uuid":"d159c5be-8291-45c4-bd21-51d024658a6d","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_489","server":"135.125.244.103","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
-  - {"type":"vmess","name":"Cyber_493","ws-opts":{"path":"/233blog"},"server":"173.245.49.143","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_494","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.238","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_495","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.111","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_498","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.113","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_500","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.141","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_501","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.5","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_521","server":"51.68.206.229","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"vmess","name":"Cyber_522","ws-opts":{"path":"/chat"},"server":"vuk2.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_523","server":"51.89.8.119","port":54766,"uuid":"6620d0e4-9a9f-4a49-d0e0-e0be3775078f","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_524","ws-opts":{"path":"/chat"},"server":"88.80.184.50","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_525","ws-opts":{"path":"/chat"},"server":"172.105.132.194","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_526","ws-opts":{"path":"/vmess"},"server":"51.38.82.132","port":80,"uuid":"aca76f27-cda3-47f7-af79-7873034fd3bc","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_527","ws-opts":{"path":"/clientarea"},"server":"18.169.54.73","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_528","ws-opts":{"path":"/chat"},"server":"178.79.177.189","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_529","ws-opts":{"path":"/chat"},"server":"vuk1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_530","server":"vtor8.net2vip.com","port":54766,"uuid":"6620d0e4-9a9f-4a49-d0e0-e0be3775078f","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_531","ws-opts":{"path":"/chat"},"server":"139.162.236.72","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_532","ws-opts":{"path":"/"},"server":"45.32.180.29","port":80,"uuid":"91fdeecc-5ae1-46ca-d297-e190c1c10659","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_533","server":"109.122.208.205","port":48377,"uuid":"21745bfe-ef4d-4e61-c142-97b4848fdc14","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_535","ws-opts":{"path":"/petalvws"},"server":"20.187.122.132","port":443,"uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_538","ws-opts":{"path":"/zh-cn"},"server":"18.162.228.19","port":443,"uuid":"2d506805-626a-4669-8c8b-23f383e371ca","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_539","server":"8.210.239.148","port":63411,"uuid":"ef29fb95-2d48-4799-99d3-8ec3b52e8af3","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_540","server":"8.218.94.239","port":61725,"uuid":"b7eef349-730f-4b56-b0e6-8e58e3e968c3","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_541","server":"8.218.90.70","port":38917,"uuid":"b4580cef-9a5b-4866-80b6-8ace5c567498","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_542","server":"8.210.117.166","port":45551,"uuid":"3cdc9bff-5fe7-4e49-9cd7-340b0e445237","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_543","server":"8.218.84.248","port":35610,"uuid":"4217b657-a9b0-4a13-a132-532318c5d6f8","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_544","server":"8.210.131.2","port":31357,"uuid":"618c0914-e31e-4b82-8289-2e7a47e48dfd","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_545","server":"8.218.7.81","port":25346,"uuid":"2f82e36d-635a-41eb-ac60-7d50fb8fd50c","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_546","server":"8.218.58.199","port":44200,"uuid":"815705a3-056e-4dbd-86c0-25d212144365","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_547","server":"47.243.183.124","port":42093,"uuid":"6bd6d540-ab4a-4ecf-98d6-1bd781a450c7","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_549","server":"8.218.79.195","port":36595,"uuid":"e8781ba1-7c16-46a3-a24a-ebb52e83f006","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_550","server":"8.218.79.43","port":40106,"uuid":"3c5e9d21-226e-4d5a-b392-d5631e1dc215","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_551","server":"47.243.185.128","port":47365,"uuid":"fb695171-6b24-4255-9893-8921f53a0548","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_552","server":"47.243.230.222","port":35668,"uuid":"ab4df3ef-e77f-4f2a-bfb8-63604412f73b","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_559","server":"8.218.95.163","port":26227,"uuid":"d6d954bd-dca3-4e53-9574-d2e81c4d14be","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_560","server":"8.218.94.25","port":48288,"uuid":"1c3ea2bd-4056-4dae-b0f8-e1737217c6e4","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_561","server":"8.218.95.203","port":61018,"uuid":"ade9e193-f710-4851-b287-cba895507345","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_562","server":"47.243.187.171","port":60808,"uuid":"99c3c1c3-c27c-49a0-9c2c-7c77c3d92bf6","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_564","ws-opts":{"path":"/opt/video/images"},"server":"hrgdvpn.flycdnedc55.vip","port":80,"uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_565","ws-opts":{"path":"/petalvws"},"server":"petal.ga","port":443,"uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_566","ws-opts":{"path":"/zh-cn"},"server":"hk3.sanfen001.pics","port":443,"uuid":"2d506805-626a-4669-8c8b-23f383e371ca","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_567","server":"148.66.56.99","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"Cyber_578","server":"47.242.1.160","port":36298,"uuid":"6cea7176-148d-4f51-9bf4-313199c839ba","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_579","server":"8.210.166.114","port":48236,"uuid":"9a3ab916-0662-45ae-8844-8efa29365f84","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_581","ws-opts":{"path":"/yfjc/jp1"},"server":"112.120.41.147","port":80,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_582","server":"8.210.236.45","port":61228,"uuid":"7e0ee5c7-46ff-42f8-ab7c-06d8227da454","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_586","ws-opts":{"path":"/silentflower"},"server":"20.205.38.191","port":80,"uuid":"b7b8970d-f6bc-477e-8e08-7e110c9c3501","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_587","ws-opts":{"path":"/pq/jp2"},"server":"58.152.47.115","port":80,"uuid":"cbb98a13-d55d-4655-844b-5f62faf5edd4","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_588","server":"101.32.73.182","port":49985,"uuid":"50f58a39-82c4-4cc4-fd80-1cf4f38d2e17","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_596","ws-opts":{"path":"/vmess"},"server":"147.139.160.130","port":80,"uuid":"b9f6ef01-a4a6-4a95-8c22-59666be14599","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_597","ws-opts":{"path":"/vmess"},"server":"103.180.124.99","port":80,"uuid":"f4531fa2-602c-414e-bf10-77377ff94ad1","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_599","ws-opts":{"path":"/clientarea"},"server":"54.76.120.223","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_600","ws-opts":{"path":"/clientarea"},"server":"79.125.119.5","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_601","ws-opts":{"path":"/clientarea"},"server":"ie-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_605","ws-opts":{"path":"/"},"server":"68.183.83.94","port":59477,"uuid":"b8f6a71c-6925-4e84-fb93-6e54f8d98b25","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_606","ws-opts":{"path":"/ws-path"},"server":"152.67.161.155","port":17355,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_607","ws-opts":{"path":"/clientarea"},"server":"43.205.177.68","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_608","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"65.2.125.199","port":80,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_609","ws-opts":{"path":"/chat"},"server":"172.105.43.205","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_610","ws-opts":{"path":"/clientarea"},"server":"3.108.167.84","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_611","ws-opts":{"path":"/clientarea"},"server":"in-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_612","ws-opts":{"path":"/chat"},"server":"vin1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_613","ws-opts":{"path":"/chat"},"server":"172.105.43.222","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_614","ws-opts":{"path":"/chat"},"server":"170.187.248.114","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_615","server":"91.107.171.113","port":81,"uuid":"9e56f531-9277-4ed5-b20d-0bb472856e3f","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_616","server":"91.107.167.217","port":80,"uuid":"b5d062c4-4589-4b39-ebc2-923285bb8c56","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_617","server":"91.107.140.193","port":8080,"uuid":"782796a5-0605-4f26-b366-273858558082","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_624","server":"91.107.141.33","port":41299,"uuid":"eec49dc4-29a5-45af-be1e-fa900d81f062","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_628","ws-opts":{"path":"/django"},"server":"login.progbyrazyar.ir","port":2053,"uuid":"66856ad9-49c0-4e0b-e954-c5c65313b7df","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_629","server":"kani.abdulkhanioffline.pw","port":41299,"uuid":"eec49dc4-29a5-45af-be1e-fa900d81f062","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_630","ws-opts":{"path":"/ws-path"},"server":"129.152.13.117","port":11691,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_644","server":"85.208.108.20","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
-  - {"type":"ss","name":"Cyber_649","server":"85.208.108.93","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"vmess","name":"Cyber_659","ws-opts":{"path":"/osav101"},"server":"138.2.45.89","port":4430,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_661","server":"168.138.206.141","port":80,"uuid":"ad05e01f-c2c0-41da-e79c-ff68237317f7","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_662","ws-opts":{"path":"/chat"},"server":"vjp1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_663","ws-opts":{"path":"/chat"},"server":"172.105.197.225","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_664","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"13.208.45.97","port":443,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_665","ws-opts":{"path":"/roewesu"},"server":"138.2.13.113","port":443,"uuid":"0b873cff-11ab-4716-c41a-04f886135091","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_666","ws-opts":{"path":"/chat"},"server":"172.104.104.126","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_668","ws-opts":{"path":"/"},"server":"140.83.86.129","port":80,"uuid":"8700cfbd-71dc-42b0-84f2-53cd7fe5645b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_670","ws-opts":{"path":"/chat"},"server":"vjp3.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_671","ws-opts":{"path":"/chat"},"server":"172.104.78.98","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_672","ws-opts":{"path":"/chat"},"server":"vjp2.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_673","ws-opts":{"path":"/roewesu"},"server":"suzhihan.eu.org","port":443,"uuid":"0b873cff-11ab-4716-c41a-04f886135091","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_676","ws-opts":{"path":"/chat"},"server":"172.104.122.21","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_679","ws-opts":{"path":"/"},"server":"43.128.225.220","port":80,"uuid":"03fa8e54-41be-4e3b-b70c-50b3750b5fdc","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_682","server":"85.208.108.91","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"vmess","name":"Cyber_683","ws-opts":{"path":"/"},"server":"152.67.218.38","port":443,"uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_691","ws-opts":{"path":"/ws-path"},"server":"152.67.218.216","port":17992,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_692","server":"146.56.133.109","port":37121,"uuid":"575e4d92-1056-44c2-8cac-75ef1c859ad5","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_693","ws-opts":{"path":"/reffs7y26g0ua"},"server":"131.186.24.103","port":443,"uuid":"6093eefb-7ab6-41df-aba0-d5fa58147e10","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_695","server":"150.230.249.15","port":46842,"uuid":"4530b5ee-ced4-4e64-9285-1867fc5df7f8","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_697","ws-opts":{"path":"/"},"server":"52.78.213.224","port":80,"uuid":"6f442823-6b73-4b31-f1f5-aa1e907b051e","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_698","server":"m4.40010010.xyz","port":37121,"uuid":"575e4d92-1056-44c2-8cac-75ef1c859ad5","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_699","ws-opts":{"path":"/nuzfvws?ed=2048"},"server":"152.67.222.248","port":443,"uuid":"d9883c4d-2bc2-4737-be75-a65c2e63d61a","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_700","ws-opts":{"path":"/"},"server":"152.69.230.170","port":80,"uuid":"6aa24ded-5f15-48c7-8cba-3e2a159d6b77","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_701","ws-opts":{"path":"/"},"server":"152.70.253.15","port":35626,"uuid":"63639a72-f01e-46f4-a45c-91b5cd5e171b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_702","ws-opts":{"path":"/"},"server":"129.154.50.21","port":2082,"uuid":"412161b8-e956-471d-ff90-214e8539c5c7","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_703","ws-opts":{"path":"/gogo"},"server":"81.28.12.12","port":443,"uuid":"8467a939-b0c2-4444-cd72-aed162ea8c09","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_704","ws-opts":{"path":"/"},"server":"india.kusanagiyou.online","port":443,"uuid":"3dec301c-2d69-44cf-ad4d-d66a4c2ab8ec","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_706","server":"194.41.112.5","port":40093,"cipher":"aes-256-gcm","password":"x23Z4LGkGDkThZ9Kaz4DURQp"}
-  - {"type":"vmess","name":"Cyber_707","ws-opts":{"path":"/vmess"},"server":"45.95.241.251","port":443,"uuid":"d1ace408-1102-4919-9ee8-88f85c8a91e3","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_718","ws-opts":{"path":"/socket.io"},"server":"185.162.235.250","port":2054,"uuid":"6f117af4-cd52-40f8-9236-7c5e3f357cc8","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_719","ws-opts":{"path":"/E86414F638E11"},"server":"188.114.96.8","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_722","ws-opts":{"path":"/E86414F638E11"},"server":"188.114.97.3","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_724","ws-opts":{"path":"/5rtP40gj/"},"server":"188.114.96.3","port":2083,"uuid":"4efdd8a5-ba9a-4faf-b4ef-127c68924aa2","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_725","ws-opts":{"path":"/path-thruth-code"},"server":"45.95.241.202","port":2053,"uuid":"055dd8b5-f693-4ae0-8eb2-58c01c4dd153","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_731","server":"51.136.163.93","port":41693,"cipher":"chacha20-ietf-poly1305","password":"1uGeYbSLQmLCx3dJPZftYD"}
-  - {"type":"ss","name":"Cyber_732","server":"51.124.217.177","port":62048,"cipher":"chacha20-ietf-poly1305","password":"TRoGQKepg1AsWO2kTnfPnb"}
-  - {"type":"vmess","name":"Cyber_735","ws-opts":{"path":"/6e9EtZ2dL"},"server":"185.143.220.25","port":443,"uuid":"f28e354e-c2d1-4983-9b07-5acaf1b3b3e5","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_736","ws-opts":{"path":"/sshocean"},"server":"38.54.80.12","port":80,"uuid":"a267a68e-4b59-413e-96a4-6388948a401c","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"Cyber_739","server":"51.77.53.200","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"vmess","name":"Cyber_764","ws-opts":{"path":"/path/220128071100"},"server":"5.133.12.63","port":443,"uuid":"4d0247e0-d1da-444c-9cda-8cc20e4e4435","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_771","ws-opts":{"path":"/"},"server":"45.85.119.94","port":2087,"uuid":"ec6bfb6b-7236-462f-bda5-3d4b9c8f9a5a","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_773","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.88","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_774","ws-opts":{"path":"/"},"server":"45.85.119.48","port":2053,"uuid":"72f76c36-3e3c-45b3-a61f-d8f017345958","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_775","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.234","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_776","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.193","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_777","ws-opts":{"path":"/ihMnsjHy"},"server":"45.85.118.48","port":2083,"uuid":"a3629454-5dab-487b-ea6b-c6c422d24c0e","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_778","ws-opts":{"path":"/aidapp.lifevws"},"server":"ip.isegaro.click","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_779","ws-opts":{"path":"/"},"server":"91.193.181.192","port":8090,"uuid":"08bc30e1-be39-4eb4-e887-e6579be15a45","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_780","ws-opts":{"path":"/"},"server":"45.89.230.196","port":80,"uuid":"8f9f526b-cab6-41d2-9424-cbdde94ea14f","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_781","ws-opts":{"path":"/aidapp.lifevws"},"server":"194.53.53.50","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_784","ws-opts":{"path":"/ws-path"},"server":"158.101.229.162","port":15227,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_786","ws-opts":{"path":"/clientarea"},"server":"13.53.232.249","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_788","server":"168.138.171.65","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":32,"cipher":"auto","network":"tcp","tls":true}
-  - {"type":"vmess","name":"Cyber_789","ws-opts":{"path":"/vmess"},"server":"51.79.173.222","port":443,"uuid":"b655be0e-4b1a-4e3e-b63f-22a928a6e808","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_792","ws-opts":{"path":"/sg1"},"server":"172.104.167.240","port":7204,"uuid":"9c52776b-4b01-4ae6-9f7d-25cd4725e13c","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_796","ws-opts":{"path":"/hkaa0"},"server":"174.138.25.187","port":8880,"uuid":"a5c804aa-8a4d-4fd2-97a1-4f0cc1384953","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_797","server":"152.69.211.235","port":80,"uuid":"d345916f-1673-4a98-f37d-49357c84ce03","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"Cyber_798","server":"139.99.68.21","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
-  - {"type":"ss","name":"Cyber_799","server":"51.79.177.159","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"Cyber_800","server":"139.99.123.85","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"Cyber_801","server":"139.99.120.234","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"vmess","name":"Cyber_802","ws-opts":{"path":"/"},"server":"18.143.123.35","port":80,"uuid":"68df4838-46d0-4b5b-c3f0-a40ec7063245","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_803","ws-opts":{"path":"/chat"},"server":"vsg1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_804","ws-opts":{"path":"/path/243535322906"},"server":"202.79.171.157","port":443,"uuid":"fb3583a3-7717-4fe5-9146-3301861f9f41","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_805","ws-opts":{"path":"/vmws"},"server":"15.235.197.24","port":443,"uuid":"ee52bd10-af40-11ed-a8db-1239d0255272","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ssr","name":"Cyber_807","server":"13.250.105.9","port":22222,"protocol":"auth_chain_a","cipher":"rc4-md5","obfs":"plain","password":"Eckrz7wI8Q2K06ZI","protocol-param":"5288:OV1vKD"}
-  - {"type":"vmess","name":"Cyber_810","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"13.250.172.43","port":443,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_811","ws-opts":{"path":"/v2ray"},"server":"70pt.autocf.site","port":80,"uuid":"e9c4ce52-9a78-4381-b6f8-23350bc4d606","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_812","ws-opts":{"path":"/chat"},"server":"170.187.231.222","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_813","ws-opts":{"path":"/"},"server":"43.134.161.95","port":16024,"uuid":"ab205e5e-537a-477e-c882-fe39e3c9634b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_815","server":"54.179.59.240","port":9002,"uuid":"3cfda485-5fff-4755-8981-3f0e3fffc3af","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_817","ws-opts":{"path":"/vpnjantit"},"server":"15.235.166.61","port":10001,"uuid":"d0006782-adc6-11ed-87be-3332ecdbe105","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_818","ws-opts":{"path":"/sg4/getData"},"server":"43.134.236.153","port":31395,"uuid":"d318b489-19b7-4a45-84d7-1320d05dc10d","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_819","ws-opts":{"path":"/path/220128071100"},"server":"202.79.172.53","port":443,"uuid":"30216206-14b7-40e7-995d-61c1219ba584","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_820","ws-opts":{"path":"/23423"},"server":"xjp2.wangjiaxin.xyz","port":25932,"uuid":"33a47ce6-5ea9-4d21-d3db-ce38421d2558","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_821","ws-opts":{"path":"/chat"},"server":"139.144.119.91","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_822","ws-opts":{"path":"/vmessws"},"server":"174.138.22.186","port":80,"uuid":"f664d429-84f6-47b9-aaa8-39bde191c897","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_823","ws-opts":{"path":"/23423"},"server":"168.138.174.28","port":25932,"uuid":"33a47ce6-5ea9-4d21-d3db-ce38421d2558","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_826","ws-opts":{"path":"/eoix290"},"server":"172.93.219.228","port":46066,"uuid":"14c0784b-827a-40c9-a530-99097619916a","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_832","ws-opts":{"path":"/clientarea"},"server":"1.161.186.146","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_834","ws-opts":{"path":"/2"},"server":"211.72.35.110","port":443,"uuid":"abced72f-fdf4-499d-bc36-1cd87f57653c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_836","ws-opts":{"path":"/clientarea"},"server":"hinet-d02.whiteconnectb.com","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_837","server":"45.121.51.103","port":20715,"uuid":"f6406b6d-5487-46da-f793-46611269a306","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_840","ws-opts":{"path":"/aidapp.lifevws"},"server":"147.185.161.178","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_843","server":"38.91.100.207","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"Cyber_846","server":"38.75.136.102","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
-  - {"type":"ss","name":"Cyber_848","server":"38.143.66.20","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"Cyber_849","server":"38.143.66.55","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"Cyber_859","server":"167.88.63.59","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"ss","name":"Cyber_861","server":"142.202.48.7","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"Cyber_862","server":"38.68.134.191","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"Cyber_865","server":"38.68.134.9","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"Cyber_874","server":"38.91.102.72","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
-  - {"type":"ss","name":"Cyber_889","server":"167.88.61.14","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"Cyber_904","server":"38.114.114.49","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"Cyber_918","server":"169.197.141.5","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"vmess","name":"Cyber_922","server":"96.43.86.4","port":80,"uuid":"3fd6c07a-a946-4c3c-8565-3bb35d0096c5","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_925","ws-opts":{"path":"/"},"server":"5.161.136.181","port":47261,"uuid":"5d66e475-6819-4e25-d560-a2b280f651ed","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_927","ws-opts":{"path":"/video"},"server":"173.249.199.27","port":443,"uuid":"e5543efd-5400-3760-9bb6-02767728e888","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_928","ws-opts":{"path":"/chat"},"server":"143.42.21.187","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_930","ws-opts":{"path":"/chat"},"server":"172.105.139.159","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_937","ws-opts":{"path":"/chat"},"server":"vde1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_941","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.67.81.238","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_943","ws-opts":{"path":"/8cda48b3"},"server":"172.64.156.232","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_945","ws-opts":{"path":"/ksebupo"},"server":"104.21.73.18","port":443,"uuid":"23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_946","ws-opts":{"path":"/phxv001"},"server":"phxv001.jd0001.top","port":4431,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_947","ws-opts":{"path":"/nguevws"},"server":"104.17.113.188","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_948","ws-opts":{"path":"/Eynyyo4kJfl2fkJfl2f"},"server":"gb.woiden.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_949","ws-opts":{"path":"/8kH8qnepjkprbsidLrLkmX"},"server":"eu1.hax.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_950","ws-opts":{"path":"/ws-path"},"server":"158.101.7.73","port":11176,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_952","ws-opts":{"path":"/5rtP40gj/"},"server":"v2ray.ibgfw.top","port":2083,"uuid":"71cd0fe5-6f4f-4ce1-941c-d56c3bb090a7","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_953","ws-opts":{"path":"/E86414F638E11"},"server":"vmess.woiden.yuji2022.gq","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_954","ws-opts":{"path":"/Eynyyo4kJfl2fkJfl2f"},"server":"172.67.223.18","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_955","ws-opts":{"path":"/speedtest"},"server":"104.26.4.78","port":443,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_956","ws-opts":{"path":"/nguevws"},"server":"104.21.235.57","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_959","ws-opts":{"path":"/v47-2023unlimitndxd"},"server":"51.81.202.62","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_960","ws-opts":{"path":"/dongtaiwang.com"},"server":"104.149.131.27","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_961","ws-opts":{"path":"/nguevws"},"server":"104.16.68.38","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_962","ws-opts":{"path":"/nguevws"},"server":"74.201.30.21","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_963","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.67.193.210","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_964","ws-opts":{"path":"/speedtest"},"server":"172.67.68.253","port":443,"uuid":"00BBF5B8-173E-6818-9927-5AD1AA073C7D","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_965","ws-opts":{"path":"/"},"server":"38.150.10.61","port":36604,"uuid":"c1a738e5-5121-4691-a718-af1731fb1f76","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_966","ws-opts":{"path":"/aidapp.lifevws"},"server":"cdnjs.com","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_967","ws-opts":{"path":"/chat"},"server":"143.42.55.133","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_968","ws-opts":{"path":"/"},"server":"3.145.88.122","port":23625,"uuid":"0dd19d20-ec86-3680-b256-87237bafa89e","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_970","ws-opts":{"path":"/"},"server":"172.67.61.225","port":443,"uuid":"1db8e8e6-b2b0-476f-84f6-a5afd2419755","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_971","ws-opts":{"path":"/en-us/manage"},"server":"172.67.149.97","port":2095,"uuid":"7a2a80bf-6a99-4536-87f3-d4478701ed52","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_972","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.24.177.7","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_973","ws-opts":{"path":"/vmess"},"server":"135.148.47.240","port":80,"uuid":"fd4fa030-b8f1-424b-a780-578dbb59f950","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_974","ws-opts":{"path":"/clientarea"},"server":"103.149.145.115","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_975","ws-opts":{"path":"/api"},"server":"3.228.37.69","port":443,"uuid":"80e7dd59-b1fc-45a0-98be-1478a9af89f2","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_976","ws-opts":{"path":"/"},"server":"24.199.119.135","port":443,"uuid":"e6da31cb-6c97-4699-c412-124d5ab80856","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_977","ws-opts":{"path":"/"},"server":"146.190.82.241","port":443,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_978","ws-opts":{"path":"/chat"},"server":"173.230.157.137","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_979","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.64.160.37","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_980","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.24.176.7","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_981","ws-opts":{"path":"/chat"},"server":"170.187.206.48","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_982","ws-opts":{"path":"/233blog"},"server":"ghxlh.tk","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_983","ws-opts":{"path":"/usv125N93nz"},"server":"104.21.16.3","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_984","ws-opts":{"path":"/speedtest"},"server":"104.26.5.78","port":443,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_985","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.21.76.112","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_986","ws-opts":{"path":"/fkcgvws"},"server":"136.175.176.168","port":443,"uuid":"286ff9bd-26b8-39c2-d85e-ba20dc1a7e75","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_987","ws-opts":{"path":"/233blog"},"server":"172.67.182.90","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_989","ws-opts":{"path":"/"},"server":"134.195.211.174","port":40551,"uuid":"e9e20e42-b06e-4c7b-b54b-c779418d373a","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_990","ws-opts":{"path":"/8cda48b3"},"server":"172.67.217.89","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_991","ws-opts":{"path":"/233blog"},"server":"172.67.203.85","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_992","ws-opts":{"path":"/wafa/"},"server":"104.17.76.195","port":80,"uuid":"11288503-4f79-4659-a033-bf538ab14499","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_993","ws-opts":{"path":"/wafa/"},"server":"104.17.75.195","port":80,"uuid":"11288503-4f79-4659-a033-bf538ab14499","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_994","ws-opts":{"path":"/ray"},"server":"104.21.84.81","port":80,"uuid":"05ab5fed-281d-4882-c29c-3c6dc8434fb0","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_995","ws-opts":{"path":"/123"},"server":"172.67.178.127","port":443,"uuid":"26b5fbcf-d199-407e-e8bf-96d7489d247d","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_996","ws-opts":{"path":"/abc"},"server":"152.67.254.16","port":43815,"uuid":"7a9f026f-f7a8-40ca-f2f9-3b380c287c0d","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_997","ws-opts":{"path":"/233blog"},"server":"103.21.244.109","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_998","ws-opts":{"path":"/ray"},"server":"172.67.132.15","port":443,"uuid":"18e5f40f-bda6-4c15-9334-e87cda6047af","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1004","ws-opts":{"path":"/"},"server":"23.105.199.218","port":80,"uuid":"a7d0b7da-9821-40e9-dbcd-21e00d239a8f","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1005","ws-opts":{"path":"/"},"server":"144.34.175.46","port":80,"uuid":"751192f4-437e-4ea9-f34f-4f0252509267","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1006","ws-opts":{"path":"/us1"},"server":"173.82.155.24","port":80,"uuid":"6031b5c3-d8ba-5756-b708-f61084a2b678","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1007","ws-opts":{"path":"/"},"server":"104.21.58.176","port":443,"uuid":"20f14598-35f4-41b6-b540-4a1ed7560c0f","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1008","ws-opts":{"path":"/"},"server":"172.67.254.145","port":443,"uuid":"0df258cb-a376-4b8e-a378-a556a4658aeb","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1009","ws-opts":{"path":"/233blog"},"server":"103.21.244.95","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1010","ws-opts":{"path":"/vmess"},"server":"104.16.176.44","port":443,"uuid":"1efed92c-bdfb-4940-a56e-541ef9cca09a","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1014","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.161","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1015","ws-opts":{"path":"/chat"},"server":"74.207.251.9","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1017","ws-opts":{"path":"/chat"},"server":"vus3.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1018","ws-opts":{"path":"/chat"},"server":"vus5.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1019","ws-opts":{"path":"/clientarea"},"server":"sea21.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1020","ws-opts":{"path":"/dongtaiwang.com"},"server":"128.14.162.48","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1021","ws-opts":{"path":"/fthe4gsefgtdu"},"server":"172.67.72.172","port":443,"uuid":"1bff15f1-a71d-4f07-b8bf-9471708eff8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1023","ws-opts":{"path":"/video"},"server":"USG.fljsm.com","port":443,"uuid":"e5543efd-5400-3760-9bb6-02767728e888","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1024","ws-opts":{"path":"/lav002"},"server":"lav002.jd0001.top","port":44401,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1025","ws-opts":{"path":"/ksebupo"},"server":"cvywfavasdc.cymlr.xyz","port":443,"uuid":"23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1026","ws-opts":{"path":"/8cda48b3"},"server":"172.67.1.182","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1027","ws-opts":{"path":"/v47-2023unlimitndxd"},"server":"v47a.toddns.tk","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1028","ws-opts":{"path":"/nguevws"},"server":"dd3.1808.cf","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1029","ws-opts":{"path":"/WKtzeN11GLqwVNBTp9mX"},"server":"eu4.hax.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1030","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.248","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1031","ws-opts":{"path":"/videnset"},"server":"172.67.137.72","port":443,"uuid":"db39ef95-4245-418a-84c0-14c202f29bc6","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1032","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.122","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1033","ws-opts":{"path":"/vmess"},"server":"104.21.235.58","port":443,"uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_1034","server":"38.91.107.66","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
-  - {"type":"ss","name":"Cyber_1035","server":"38.91.102.125","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
-  - {"type":"ss","name":"Cyber_1037","server":"38.91.101.159","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
-  - {"type":"ss","name":"Cyber_1040","server":"38.68.135.239","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"Cyber_1041","server":"38.121.43.65","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"Cyber_1047","server":"38.91.107.227","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"type":"vmess","name":"Cyber_1055","ws-opts":{"path":"/"},"server":"173.211.42.221","port":29633,"uuid":"f808ff53-b475-415d-840a-f05cb6af85f3","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1056","ws-opts":{"path":"/m3"},"server":"146.190.166.137","port":8882,"uuid":"90ea24f6-4b7f-4b4e-a9c1-de7d77b67e45","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1105","ws-opts":{"path":"/fthe4gsefgtdu"},"server":"172.67.77.95","port":443,"uuid":"1bff15f1-a71d-4f07-b8bf-9471708eff8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1106","ws-opts":{"path":"/xuexi"},"server":"104.17.199.25","port":443,"uuid":"860b543f-5039-473b-96ec-4494aebe4416","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1107","ws-opts":{"path":"/654f997b-5bea-4c82-9538-35ee57b6fd72"},"server":"143.204.89.108","port":443,"uuid":"654f997b-5bea-4c82-9538-35ee57b6fd72","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1109","ws-opts":{"path":"/ray"},"server":"13.227.241.58","port":80,"uuid":"c82e6674-2d1a-4c8e-b423-5d7939b9a8ea","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1110","ws-opts":{"path":"/"},"server":"172.64.174.151","port":443,"uuid":"18849b38-719b-483e-958b-45397595a8ec","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1111","ws-opts":{"path":"/ray"},"server":"13.227.254.146","port":80,"uuid":"7a400a2b-3748-47e9-df48-54a518f74056","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1112","ws-opts":{"path":"/us"},"server":"146.190.138.21","port":443,"uuid":"dc822f4e-cd60-4174-a93e-c1d3865976aa","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1114","ws-opts":{"path":"/ray"},"server":"13.227.243.216","port":80,"uuid":"d822dcfa-61c9-4dbd-b37f-d10548959ec2","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1115","ws-opts":{"path":"/yfjc/us2?ed=2048"},"server":"172.64.144.208","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1116","ws-opts":{"path":"/yfjc/jp2?ed=2048"},"server":"162.159.153.13","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1117","ws-opts":{"path":"/yfjc/jp1?ed=2048"},"server":"162.159.152.5","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1118","ws-opts":{"path":"/CCTV6/hd.m3u8"},"server":"104.21.233.155","port":443,"uuid":"9f08a36d-d01e-46ab-a3ac-14a548c8b3e6","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1119","ws-opts":{"path":"/"},"server":"50.116.10.96","port":80,"uuid":"b53d410f-d53c-4531-9986-83725911ae30","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1120","server":"5.161.158.156","port":42822,"uuid":"59c20226-2529-4cec-e1e3-ba6d31492a38","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_1122","ws-opts":{"path":"/mR17oBKzZ7"},"server":"172.66.44.197","port":443,"uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"Cyber_1123","server":"5.161.135.196","port":40485,"uuid":"83569a3e-03b7-43ea-f329-ff08f13f80a8","alterId":32,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"Cyber_1125","ws-opts":{"path":"/1soxrkmb"},"server":"172.67.164.165","port":443,"uuid":"31f61660-a646-11ed-b539-205c6d5f5d78","alterId":32,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"Cyber_1134","server":"37.120.147.230","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"Cyber_1145","ws-opts":{"path":"/"},"server":"42.96.3.193","port":80,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1146","ws-opts":{"path":"/"},"server":"103.14.48.159","port":80,"uuid":"0f8dd795-7552-41e8-e7b7-faf6b54bc29a","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1147","ws-opts":{"path":"/tandung288.click"},"server":"103.166.185.227","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1148","ws-opts":{"path":"/tandung288.click"},"server":"103.166.183.226","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1149","ws-opts":{"path":"/tandung288.click"},"server":"103.56.160.184","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1150","ws-opts":{"path":"/tandung288.click"},"server":"103.166.184.157","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1151","ws-opts":{"path":"/tandung288.click"},"server":"103.166.183.151","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1152","ws-opts":{"path":"/tandung288.click"},"server":"103.183.118.19","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1153","ws-opts":{"path":"/tandung288.click"},"server":"103.82.24.79","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1154","ws-opts":{"path":"/tandung288.click"},"server":"103.82.24.174","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1155","ws-opts":{"path":"/"},"server":"103.231.248.222","port":80,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"Cyber_1156","ws-opts":{"path":"/"},"server":"129.151.164.152","port":55600,"uuid":"e30f8588-2555-48b8-c354-c8e63f57232d","alterId":32,"cipher":"auto","network":"ws"}
-  - {name: Cyber_1157, server: 86.wowogg.cyou, port: 52286, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_1159, server: 106.55.187.139, port: 8448, type: vmess, uuid: 5a464707-3162-4a09-e9e2-d70a6b892267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: download.cloud.189.cn}}}
-  - {name: Cyber_1162, server: v2ray.ibgfw.top, port: 2083, type: vmess, uuid: 71cd0fe5-6f4f-4ce1-941c-d56c3bb090a7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /5rtP40gj/, headers: {Host: v2ray.ibgfw.top}}}
-  - {name: Cyber_1165, server: b.gguu.pp.ua, port: 443, type: vmess, uuid: e959bcfa-500d-419a-b71d-e7fa2bf63969, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /123, headers: {Host: b.gguu.pp.ua}}}
-  - {name: Cyber_1166, server: hax-us4.sudoxin.tk, port: 443, type: vmess, uuid: c8e0f808-25d6-4911-833e-50b9f5050ba6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /c8e0f808-25d6-4911-833e-50b9f5050ba6, headers: {Host: hax-us4.sudoxin.tk}}}
-  - {name: Cyber_1167, server: 173.245.59.168, port: 8080, type: vmess, uuid: 27848739-7e62-4138-9fd3-938a63964b6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /KTR, headers: {Host: 4.arvanktbr.store}}}
-  - {name: Cyber_1168, server: uk-7.youngns.ml, port: 443, type: vmess, uuid: 0618e97a-9067-4514-8ebc-5c2963325bbd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-7.youngns.ml}}}
-  - {name: Cyber_1169, server: cf-lt.sharecentre.online, port: 8880, type: vmess, uuid: e59bd762-dacd-445c-8e2a-e1c5812949cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v10.asuka.buzz}}}
-  - {name: Cyber_1170, server: no.aries.ovh, port: 8880, type: vmess, uuid: e59bd762-dacd-445c-8e2a-e1c5812949cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v10.asuka.buzz}}}
-  - {name: Cyber_1171, server: free-eu1.tencent.sbs, port: 61011, type: vmess, uuid: d1860587-aa33-4b76-85cd-c191edecb338, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: free-eu1.tencent.sbs}}}
-  - {name: Cyber_1172, server: xn--5buw85e.xn--ghqw6jkw0a.live, port: 443, type: vmess, uuid: 9ca4e1fc-d564-413c-fa15-f1821099970b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xn--5buw85e.xn--ghqw6jkw0a.live}}}
-  - {name: Cyber_1173, server: cf.515188.xyz, port: 80, type: vmess, uuid: 462a1f83-f2f6-41de-c844-3e738d5a5648, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: uk2vc.vps-jdkz.cf}}}
-  - {name: Cyber_1174, server: a3.wzr905.ml, port: 80, type: vmess, uuid: f63dff77-c865-4f4d-bfa0-bef0597f6da4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: 7932, headers: {Host: a3.wzr905.ml}}}
-  - {name: Cyber_1176, server: us-dp.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: us-dp.sharecentre.online}}}
-  - {name: Cyber_1177, server: 203.30.191.18, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: clash6.ssr-free.xyz}}}
-  - {name: Cyber_1190, server: 106.245.77.162, port: 80, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: kr.sharecentre.online}}}
-  - {name: Cyber_1204, server: cf.bakapie.cf, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: 84a514ba.adorc.ml}}}
+  - {"name":"Cyber_95","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_96","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_97","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_98","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_99","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_105","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_106","server":"38.91.102.30","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_108","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_109","server":"172.99.190.61","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_112","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_120","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_121","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_122","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_126","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_131","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_132","server":"169.197.142.48","type":"ss","country":"🏁 ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_133","server":"169.197.141.187","type":"ss","country":"🏁 ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_134","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"type":"vmess","name":"Cyber_135","ws-opts":{"path":"/ws-path"},"server":"193.123.95.170","port":14471,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_137","ws-opts":{"path":"/chat"},"server":"vau1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_138","server":"170.64.133.209","port":443,"uuid":"76f6ed54-7f61-4407-f49d-dd33d07ebd8f","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_139","ws-opts":{"path":"/chat"},"server":"172.105.255.4","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_140","ws-opts":{"path":"/clientarea"},"server":"13.239.107.178","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_142","ws-opts":{"path":"/clientarea"},"server":"3.25.150.106","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_143","ws-opts":{"path":"/clientarea"},"server":"au-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_146","server":"134.195.196.143","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"Cyber_147","server":"134.195.196.85","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"Cyber_149","server":"134.195.196.19","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"Cyber_151","server":"134.195.196.231","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"Cyber_178","server":"134.195.196.107","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"Cyber_196","server":"134.195.196.178","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"Cyber_252","server":"ak1617.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"Cyber_253","ws-opts":{"path":"/ws-path"},"server":"132.145.99.228","port":13724,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_254","ws-opts":{"path":"/"},"server":"192.99.8.99","port":36005,"uuid":"05c38399-5296-4bf2-a606-1cec3b71c942","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_257","ws-opts":{"path":"/ws-path"},"server":"168.138.68.36","port":14252,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_262","ws-opts":{"path":"/clientarea"},"server":"35.183.42.25","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_263","ws-opts":{"path":"/clientarea"},"server":"ca-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_264","ws-opts":{"path":"/"},"server":"tcas.padra-holding.com","port":36005,"uuid":"05c38399-5296-4bf2-a606-1cec3b71c942","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_265","ws-opts":{"path":"/clientarea"},"server":"52.60.178.90","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_266","server":"72.140.224.195","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"Cyber_281","server":"42.225.20.18","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_282","server":"103.45.78.147","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_290","server":"103.45.78.241","port":10004,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_291","server":"103.45.78.187","port":3230,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_292","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"112.18.159.7","port":50207,"uuid":"b1478e24-4916-3abe-8f17-15931012ecbe","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_293","server":"103.45.78.185","port":10001,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_294","server":"159.69.181.133","port":443,"uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"Cyber_295","server":"193.108.117.75","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"Cyber_297","server":"193.108.117.24","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"vmess","name":"Cyber_298","ws-opts":{"path":"/@hashmakvpn"},"server":"78.47.131.39","port":8081,"uuid":"503ff1d8-fe20-4dca-f4b4-073f80e439c8","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_307","server":"193.108.118.36","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"Cyber_309","server":"193.108.118.79","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"Cyber_310","server":"193.108.118.34","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"vmess","name":"Cyber_316","ws-opts":{"path":"/"},"server":"79.133.41.175","port":443,"uuid":"9b6f7da8-6638-414c-f5c1-78d245e9ae31","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_327","server":"193.108.118.30","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"Cyber_347","server":"217.182.198.219","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"vmess","name":"Cyber_349","ws-opts":{"path":"/vmess"},"server":"89.163.213.20","port":80,"uuid":"5668ff97-631f-4602-a13f-b56552c67abe","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_354","server":"162.55.217.113","port":22301,"uuid":"176ed834-75dc-4e4c-a536-f05479b39b3c","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_355","ws-opts":{"path":"/"},"server":"5.75.198.117","port":80,"uuid":"e30cf2d5-1210-4c9d-8c1b-6c9acb773579","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_372","ws-opts":{"path":"/vmws"},"server":"5.254.17.52","port":2087,"uuid":"01c60c90-af54-11ed-b2d8-1239d0255272","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_373","ws-opts":{"path":"/"},"server":"79.132.133.38","port":54458,"uuid":"31b022f2-5441-4e9a-ffe7-43fee7ab0688","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_376","ws-opts":{"path":"/clientarea"},"server":"3.75.89.69","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_378","server":"5.75.187.19","port":8801,"uuid":"392f8755-75e7-481e-927e-0f3aae34234e","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"ss","name":"Cyber_379","server":"85.114.138.92","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"Cyber_382","server":"135.181.172.225","port":30705,"cipher":"aes-256-gcm","password":"R2Lp3a4tgj"}
+  - {"type":"vmess","name":"Cyber_383","ws-opts":{"path":"/"},"server":"65.109.198.239","port":80,"uuid":"39456a8e-168f-4878-c239-bbe57be03518","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_384","ws-opts":{"path":"/"},"server":"65.109.213.45","port":80,"uuid":"cda69196-aa57-466d-c022-6db0227a28f4","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_387","server":"54.36.174.181","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"vmess","name":"Cyber_423","server":"51.77.215.62","port":40846,"uuid":"507e98ae-7922-4756-c953-34e5c573dda4","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"Cyber_468","server":"51.178.87.37","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"Cyber_480","server":"145.239.6.202","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"vmess","name":"Cyber_484","ws-opts":{"path":"/"},"server":"5.135.43.119","port":58732,"uuid":"d159c5be-8291-45c4-bd21-51d024658a6d","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_485","server":"135.125.244.103","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
+  - {"type":"vmess","name":"Cyber_489","ws-opts":{"path":"/233blog"},"server":"173.245.49.143","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_490","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.238","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_491","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.111","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_494","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.113","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_496","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.141","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_497","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.5","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_517","server":"51.68.206.229","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"vmess","name":"Cyber_518","ws-opts":{"path":"/chat"},"server":"vuk2.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_519","server":"51.89.8.119","port":54766,"uuid":"6620d0e4-9a9f-4a49-d0e0-e0be3775078f","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_520","ws-opts":{"path":"/chat"},"server":"88.80.184.50","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_521","ws-opts":{"path":"/chat"},"server":"172.105.132.194","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_522","ws-opts":{"path":"/vmess"},"server":"51.38.82.132","port":80,"uuid":"aca76f27-cda3-47f7-af79-7873034fd3bc","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_523","ws-opts":{"path":"/clientarea"},"server":"18.169.54.73","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_524","ws-opts":{"path":"/chat"},"server":"178.79.177.189","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_525","ws-opts":{"path":"/chat"},"server":"vuk1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_526","server":"vtor8.net2vip.com","port":54766,"uuid":"6620d0e4-9a9f-4a49-d0e0-e0be3775078f","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_527","ws-opts":{"path":"/chat"},"server":"139.162.236.72","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_528","ws-opts":{"path":"/"},"server":"45.32.180.29","port":80,"uuid":"91fdeecc-5ae1-46ca-d297-e190c1c10659","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_529","server":"109.122.208.205","port":48377,"uuid":"21745bfe-ef4d-4e61-c142-97b4848fdc14","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_531","ws-opts":{"path":"/petalvws"},"server":"20.187.122.132","port":443,"uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_534","ws-opts":{"path":"/zh-cn"},"server":"18.162.228.19","port":443,"uuid":"2d506805-626a-4669-8c8b-23f383e371ca","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_535","server":"8.210.239.148","port":63411,"uuid":"ef29fb95-2d48-4799-99d3-8ec3b52e8af3","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_536","server":"8.218.94.239","port":61725,"uuid":"b7eef349-730f-4b56-b0e6-8e58e3e968c3","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_537","server":"8.218.90.70","port":38917,"uuid":"b4580cef-9a5b-4866-80b6-8ace5c567498","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_538","server":"8.210.117.166","port":45551,"uuid":"3cdc9bff-5fe7-4e49-9cd7-340b0e445237","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_539","server":"8.218.84.248","port":35610,"uuid":"4217b657-a9b0-4a13-a132-532318c5d6f8","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_540","server":"8.210.131.2","port":31357,"uuid":"618c0914-e31e-4b82-8289-2e7a47e48dfd","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_541","server":"8.218.7.81","port":25346,"uuid":"2f82e36d-635a-41eb-ac60-7d50fb8fd50c","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_542","server":"8.218.58.199","port":44200,"uuid":"815705a3-056e-4dbd-86c0-25d212144365","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_543","server":"47.243.183.124","port":42093,"uuid":"6bd6d540-ab4a-4ecf-98d6-1bd781a450c7","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_545","server":"8.218.79.195","port":36595,"uuid":"e8781ba1-7c16-46a3-a24a-ebb52e83f006","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_546","server":"8.218.79.43","port":40106,"uuid":"3c5e9d21-226e-4d5a-b392-d5631e1dc215","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_547","server":"47.243.185.128","port":47365,"uuid":"fb695171-6b24-4255-9893-8921f53a0548","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_548","server":"47.243.230.222","port":35668,"uuid":"ab4df3ef-e77f-4f2a-bfb8-63604412f73b","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_555","server":"8.218.95.163","port":26227,"uuid":"d6d954bd-dca3-4e53-9574-d2e81c4d14be","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_556","server":"8.218.94.25","port":48288,"uuid":"1c3ea2bd-4056-4dae-b0f8-e1737217c6e4","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_557","server":"8.218.95.203","port":61018,"uuid":"ade9e193-f710-4851-b287-cba895507345","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_558","server":"47.243.187.171","port":60808,"uuid":"99c3c1c3-c27c-49a0-9c2c-7c77c3d92bf6","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_560","ws-opts":{"path":"/opt/video/images"},"server":"hrgdvpn.flycdnedc55.vip","port":80,"uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_561","ws-opts":{"path":"/petalvws"},"server":"petal.ga","port":443,"uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_562","ws-opts":{"path":"/zh-cn"},"server":"hk3.sanfen001.pics","port":443,"uuid":"2d506805-626a-4669-8c8b-23f383e371ca","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_563","server":"148.66.56.99","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"Cyber_574","server":"47.242.1.160","port":36298,"uuid":"6cea7176-148d-4f51-9bf4-313199c839ba","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_575","server":"8.210.166.114","port":48236,"uuid":"9a3ab916-0662-45ae-8844-8efa29365f84","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_577","ws-opts":{"path":"/yfjc/jp1"},"server":"112.120.41.147","port":80,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_578","server":"8.210.236.45","port":61228,"uuid":"7e0ee5c7-46ff-42f8-ab7c-06d8227da454","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_582","ws-opts":{"path":"/silentflower"},"server":"20.205.38.191","port":80,"uuid":"b7b8970d-f6bc-477e-8e08-7e110c9c3501","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_583","ws-opts":{"path":"/pq/jp2"},"server":"58.152.47.115","port":80,"uuid":"cbb98a13-d55d-4655-844b-5f62faf5edd4","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_584","server":"101.32.73.182","port":49985,"uuid":"50f58a39-82c4-4cc4-fd80-1cf4f38d2e17","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_592","ws-opts":{"path":"/vmess"},"server":"147.139.160.130","port":80,"uuid":"b9f6ef01-a4a6-4a95-8c22-59666be14599","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_593","ws-opts":{"path":"/vmess"},"server":"103.180.124.99","port":80,"uuid":"f4531fa2-602c-414e-bf10-77377ff94ad1","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_595","ws-opts":{"path":"/clientarea"},"server":"54.76.120.223","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_596","ws-opts":{"path":"/clientarea"},"server":"79.125.119.5","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_597","ws-opts":{"path":"/clientarea"},"server":"ie-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_601","ws-opts":{"path":"/"},"server":"68.183.83.94","port":59477,"uuid":"b8f6a71c-6925-4e84-fb93-6e54f8d98b25","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_602","ws-opts":{"path":"/ws-path"},"server":"152.67.161.155","port":17355,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_603","ws-opts":{"path":"/clientarea"},"server":"43.205.177.68","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_604","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"65.2.125.199","port":80,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_605","ws-opts":{"path":"/chat"},"server":"172.105.43.205","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_606","ws-opts":{"path":"/clientarea"},"server":"3.108.167.84","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_607","ws-opts":{"path":"/clientarea"},"server":"in-ls03.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_608","ws-opts":{"path":"/chat"},"server":"vin1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_609","ws-opts":{"path":"/chat"},"server":"172.105.43.222","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_610","ws-opts":{"path":"/chat"},"server":"170.187.248.114","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_611","server":"91.107.171.113","port":81,"uuid":"9e56f531-9277-4ed5-b20d-0bb472856e3f","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_612","server":"91.107.167.217","port":80,"uuid":"b5d062c4-4589-4b39-ebc2-923285bb8c56","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_613","server":"91.107.140.193","port":8080,"uuid":"782796a5-0605-4f26-b366-273858558082","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_620","server":"91.107.141.33","port":41299,"uuid":"eec49dc4-29a5-45af-be1e-fa900d81f062","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_624","ws-opts":{"path":"/django"},"server":"login.progbyrazyar.ir","port":2053,"uuid":"66856ad9-49c0-4e0b-e954-c5c65313b7df","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_625","server":"kani.abdulkhanioffline.pw","port":41299,"uuid":"eec49dc4-29a5-45af-be1e-fa900d81f062","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_626","ws-opts":{"path":"/ws-path"},"server":"129.152.13.117","port":11691,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_640","server":"85.208.108.20","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"Cyber_645","server":"85.208.108.93","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"vmess","name":"Cyber_655","ws-opts":{"path":"/osav101"},"server":"138.2.45.89","port":4430,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_657","server":"168.138.206.141","port":80,"uuid":"ad05e01f-c2c0-41da-e79c-ff68237317f7","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_658","ws-opts":{"path":"/chat"},"server":"vjp1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_659","ws-opts":{"path":"/chat"},"server":"172.105.197.225","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_660","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"13.208.45.97","port":443,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_661","ws-opts":{"path":"/roewesu"},"server":"138.2.13.113","port":443,"uuid":"0b873cff-11ab-4716-c41a-04f886135091","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_662","ws-opts":{"path":"/chat"},"server":"172.104.104.126","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_664","ws-opts":{"path":"/"},"server":"140.83.86.129","port":80,"uuid":"8700cfbd-71dc-42b0-84f2-53cd7fe5645b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_666","ws-opts":{"path":"/chat"},"server":"vjp3.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_667","ws-opts":{"path":"/chat"},"server":"172.104.78.98","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_668","ws-opts":{"path":"/chat"},"server":"vjp2.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_669","ws-opts":{"path":"/roewesu"},"server":"suzhihan.eu.org","port":443,"uuid":"0b873cff-11ab-4716-c41a-04f886135091","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_672","ws-opts":{"path":"/chat"},"server":"172.104.122.21","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_675","ws-opts":{"path":"/"},"server":"43.128.225.220","port":80,"uuid":"03fa8e54-41be-4e3b-b70c-50b3750b5fdc","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_678","server":"85.208.108.91","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"vmess","name":"Cyber_679","ws-opts":{"path":"/"},"server":"152.67.218.38","port":443,"uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_687","ws-opts":{"path":"/ws-path"},"server":"152.67.218.216","port":17992,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_688","server":"146.56.133.109","port":37121,"uuid":"575e4d92-1056-44c2-8cac-75ef1c859ad5","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_689","ws-opts":{"path":"/reffs7y26g0ua"},"server":"131.186.24.103","port":443,"uuid":"6093eefb-7ab6-41df-aba0-d5fa58147e10","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_691","server":"150.230.249.15","port":46842,"uuid":"4530b5ee-ced4-4e64-9285-1867fc5df7f8","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_693","ws-opts":{"path":"/"},"server":"52.78.213.224","port":80,"uuid":"6f442823-6b73-4b31-f1f5-aa1e907b051e","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_694","server":"m4.40010010.xyz","port":37121,"uuid":"575e4d92-1056-44c2-8cac-75ef1c859ad5","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_695","ws-opts":{"path":"/nuzfvws?ed=2048"},"server":"152.67.222.248","port":443,"uuid":"d9883c4d-2bc2-4737-be75-a65c2e63d61a","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_696","ws-opts":{"path":"/"},"server":"152.69.230.170","port":80,"uuid":"6aa24ded-5f15-48c7-8cba-3e2a159d6b77","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_697","ws-opts":{"path":"/"},"server":"152.70.253.15","port":35626,"uuid":"63639a72-f01e-46f4-a45c-91b5cd5e171b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_698","ws-opts":{"path":"/"},"server":"129.154.50.21","port":2082,"uuid":"412161b8-e956-471d-ff90-214e8539c5c7","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_699","ws-opts":{"path":"/gogo"},"server":"81.28.12.12","port":443,"uuid":"8467a939-b0c2-4444-cd72-aed162ea8c09","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_700","ws-opts":{"path":"/"},"server":"india.kusanagiyou.online","port":443,"uuid":"3dec301c-2d69-44cf-ad4d-d66a4c2ab8ec","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_702","server":"194.41.112.5","port":40093,"cipher":"aes-256-gcm","password":"x23Z4LGkGDkThZ9Kaz4DURQp"}
+  - {"type":"vmess","name":"Cyber_703","ws-opts":{"path":"/vmess"},"server":"45.95.241.251","port":443,"uuid":"d1ace408-1102-4919-9ee8-88f85c8a91e3","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_714","ws-opts":{"path":"/socket.io"},"server":"185.162.235.250","port":2054,"uuid":"6f117af4-cd52-40f8-9236-7c5e3f357cc8","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_715","ws-opts":{"path":"/E86414F638E11"},"server":"188.114.96.8","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_718","ws-opts":{"path":"/E86414F638E11"},"server":"188.114.97.3","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_720","ws-opts":{"path":"/5rtP40gj/"},"server":"188.114.96.3","port":2083,"uuid":"4efdd8a5-ba9a-4faf-b4ef-127c68924aa2","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_721","ws-opts":{"path":"/path-thruth-code"},"server":"45.95.241.202","port":2053,"uuid":"055dd8b5-f693-4ae0-8eb2-58c01c4dd153","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_727","server":"51.136.163.93","port":41693,"cipher":"chacha20-ietf-poly1305","password":"1uGeYbSLQmLCx3dJPZftYD"}
+  - {"type":"ss","name":"Cyber_728","server":"51.124.217.177","port":62048,"cipher":"chacha20-ietf-poly1305","password":"TRoGQKepg1AsWO2kTnfPnb"}
+  - {"type":"vmess","name":"Cyber_731","ws-opts":{"path":"/6e9EtZ2dL"},"server":"185.143.220.25","port":443,"uuid":"f28e354e-c2d1-4983-9b07-5acaf1b3b3e5","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_732","ws-opts":{"path":"/sshocean"},"server":"38.54.80.12","port":80,"uuid":"a267a68e-4b59-413e-96a4-6388948a401c","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"Cyber_735","server":"51.77.53.200","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"vmess","name":"Cyber_760","ws-opts":{"path":"/path/220128071100"},"server":"5.133.12.63","port":443,"uuid":"4d0247e0-d1da-444c-9cda-8cc20e4e4435","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_767","ws-opts":{"path":"/"},"server":"45.85.119.94","port":2087,"uuid":"ec6bfb6b-7236-462f-bda5-3d4b9c8f9a5a","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_769","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.88","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_770","ws-opts":{"path":"/"},"server":"45.85.119.48","port":2053,"uuid":"72f76c36-3e3c-45b3-a61f-d8f017345958","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_771","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.234","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_772","ws-opts":{"path":"/aidapp.lifevws"},"server":"45.85.118.193","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_773","ws-opts":{"path":"/ihMnsjHy"},"server":"45.85.118.48","port":2083,"uuid":"a3629454-5dab-487b-ea6b-c6c422d24c0e","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_774","ws-opts":{"path":"/aidapp.lifevws"},"server":"ip.isegaro.click","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_775","ws-opts":{"path":"/"},"server":"91.193.181.192","port":8090,"uuid":"08bc30e1-be39-4eb4-e887-e6579be15a45","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_776","ws-opts":{"path":"/"},"server":"45.89.230.196","port":80,"uuid":"8f9f526b-cab6-41d2-9424-cbdde94ea14f","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_777","ws-opts":{"path":"/aidapp.lifevws"},"server":"194.53.53.50","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_780","ws-opts":{"path":"/ws-path"},"server":"158.101.229.162","port":15227,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_782","ws-opts":{"path":"/clientarea"},"server":"13.53.232.249","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_784","server":"168.138.171.65","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":32,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"Cyber_785","ws-opts":{"path":"/vmess"},"server":"51.79.173.222","port":443,"uuid":"b655be0e-4b1a-4e3e-b63f-22a928a6e808","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_788","ws-opts":{"path":"/sg1"},"server":"172.104.167.240","port":7204,"uuid":"9c52776b-4b01-4ae6-9f7d-25cd4725e13c","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_792","ws-opts":{"path":"/hkaa0"},"server":"174.138.25.187","port":8880,"uuid":"a5c804aa-8a4d-4fd2-97a1-4f0cc1384953","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_793","server":"152.69.211.235","port":80,"uuid":"d345916f-1673-4a98-f37d-49357c84ce03","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"ss","name":"Cyber_794","server":"139.99.68.21","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"Cyber_795","server":"51.79.177.159","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"Cyber_796","server":"139.99.123.85","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"Cyber_797","server":"139.99.120.234","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"vmess","name":"Cyber_798","ws-opts":{"path":"/"},"server":"18.143.123.35","port":80,"uuid":"68df4838-46d0-4b5b-c3f0-a40ec7063245","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_799","ws-opts":{"path":"/chat"},"server":"vsg1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_800","ws-opts":{"path":"/path/243535322906"},"server":"202.79.171.157","port":443,"uuid":"fb3583a3-7717-4fe5-9146-3301861f9f41","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_801","ws-opts":{"path":"/vmws"},"server":"15.235.197.24","port":443,"uuid":"ee52bd10-af40-11ed-a8db-1239d0255272","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ssr","name":"Cyber_803","server":"13.250.105.9","port":22222,"protocol":"auth_chain_a","cipher":"rc4-md5","obfs":"plain","password":"Eckrz7wI8Q2K06ZI","protocol-param":"5288:OV1vKD"}
+  - {"type":"vmess","name":"Cyber_806","ws-opts":{"path":"/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b"},"server":"13.250.172.43","port":443,"uuid":"a5b4a32d-831b-449c-ac27-6a3bcafe4f26","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_807","ws-opts":{"path":"/v2ray"},"server":"70pt.autocf.site","port":80,"uuid":"e9c4ce52-9a78-4381-b6f8-23350bc4d606","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_808","ws-opts":{"path":"/chat"},"server":"170.187.231.222","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_809","ws-opts":{"path":"/"},"server":"43.134.161.95","port":16024,"uuid":"ab205e5e-537a-477e-c882-fe39e3c9634b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_811","server":"54.179.59.240","port":9002,"uuid":"3cfda485-5fff-4755-8981-3f0e3fffc3af","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_813","ws-opts":{"path":"/vpnjantit"},"server":"15.235.166.61","port":10001,"uuid":"d0006782-adc6-11ed-87be-3332ecdbe105","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_814","ws-opts":{"path":"/sg4/getData"},"server":"43.134.236.153","port":31395,"uuid":"d318b489-19b7-4a45-84d7-1320d05dc10d","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_815","ws-opts":{"path":"/path/220128071100"},"server":"202.79.172.53","port":443,"uuid":"30216206-14b7-40e7-995d-61c1219ba584","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_816","ws-opts":{"path":"/23423"},"server":"xjp2.wangjiaxin.xyz","port":25932,"uuid":"33a47ce6-5ea9-4d21-d3db-ce38421d2558","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_817","ws-opts":{"path":"/chat"},"server":"139.144.119.91","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_818","ws-opts":{"path":"/vmessws"},"server":"174.138.22.186","port":80,"uuid":"f664d429-84f6-47b9-aaa8-39bde191c897","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_819","ws-opts":{"path":"/23423"},"server":"168.138.174.28","port":25932,"uuid":"33a47ce6-5ea9-4d21-d3db-ce38421d2558","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_822","ws-opts":{"path":"/eoix290"},"server":"172.93.219.228","port":46066,"uuid":"14c0784b-827a-40c9-a530-99097619916a","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_828","ws-opts":{"path":"/clientarea"},"server":"1.161.186.146","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_830","ws-opts":{"path":"/2"},"server":"211.72.35.110","port":443,"uuid":"abced72f-fdf4-499d-bc36-1cd87f57653c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_832","ws-opts":{"path":"/clientarea"},"server":"hinet-d02.whiteconnectb.com","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_833","server":"45.121.51.103","port":20715,"uuid":"f6406b6d-5487-46da-f793-46611269a306","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_836","ws-opts":{"path":"/aidapp.lifevws"},"server":"147.185.161.178","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_839","server":"38.91.100.207","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"Cyber_842","server":"38.75.136.102","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"Cyber_844","server":"38.143.66.20","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"Cyber_845","server":"38.143.66.55","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"Cyber_855","server":"167.88.63.59","port":443,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"Cyber_857","server":"142.202.48.7","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"Cyber_858","server":"38.68.134.191","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"Cyber_861","server":"38.68.134.9","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"Cyber_870","server":"38.91.102.72","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"Cyber_885","server":"167.88.61.14","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"Cyber_900","server":"38.114.114.49","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"Cyber_914","server":"169.197.141.5","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"Cyber_918","server":"96.43.86.4","port":80,"uuid":"3fd6c07a-a946-4c3c-8565-3bb35d0096c5","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_921","ws-opts":{"path":"/"},"server":"5.161.136.181","port":47261,"uuid":"5d66e475-6819-4e25-d560-a2b280f651ed","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_923","ws-opts":{"path":"/video"},"server":"173.249.199.27","port":443,"uuid":"e5543efd-5400-3760-9bb6-02767728e888","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_924","ws-opts":{"path":"/chat"},"server":"143.42.21.187","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_926","ws-opts":{"path":"/chat"},"server":"172.105.139.159","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_933","ws-opts":{"path":"/chat"},"server":"vde1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_937","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.67.81.238","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_939","ws-opts":{"path":"/8cda48b3"},"server":"172.64.156.232","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_941","ws-opts":{"path":"/ksebupo"},"server":"104.21.73.18","port":443,"uuid":"23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_942","ws-opts":{"path":"/phxv001"},"server":"phxv001.jd0001.top","port":4431,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_943","ws-opts":{"path":"/nguevws"},"server":"104.17.113.188","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_944","ws-opts":{"path":"/Eynyyo4kJfl2fkJfl2f"},"server":"gb.woiden.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_945","ws-opts":{"path":"/8kH8qnepjkprbsidLrLkmX"},"server":"eu1.hax.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_946","ws-opts":{"path":"/ws-path"},"server":"158.101.7.73","port":11176,"uuid":"52768552-c2b2-4460-89f1-e740cc145b99","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_948","ws-opts":{"path":"/5rtP40gj/"},"server":"v2ray.ibgfw.top","port":2083,"uuid":"71cd0fe5-6f4f-4ce1-941c-d56c3bb090a7","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_949","ws-opts":{"path":"/E86414F638E11"},"server":"vmess.woiden.yuji2022.gq","port":8880,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_950","ws-opts":{"path":"/Eynyyo4kJfl2fkJfl2f"},"server":"172.67.223.18","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_951","ws-opts":{"path":"/speedtest"},"server":"104.26.4.78","port":443,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_952","ws-opts":{"path":"/nguevws"},"server":"104.21.235.57","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_955","ws-opts":{"path":"/v47-2023unlimitndxd"},"server":"51.81.202.62","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_956","ws-opts":{"path":"/dongtaiwang.com"},"server":"104.149.131.27","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_957","ws-opts":{"path":"/nguevws"},"server":"104.16.68.38","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_958","ws-opts":{"path":"/nguevws"},"server":"74.201.30.21","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_959","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.67.193.210","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_960","ws-opts":{"path":"/speedtest"},"server":"172.67.68.253","port":443,"uuid":"00BBF5B8-173E-6818-9927-5AD1AA073C7D","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_961","ws-opts":{"path":"/"},"server":"38.150.10.61","port":36604,"uuid":"c1a738e5-5121-4691-a718-af1731fb1f76","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_962","ws-opts":{"path":"/aidapp.lifevws"},"server":"cdnjs.com","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_963","ws-opts":{"path":"/chat"},"server":"143.42.55.133","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_964","ws-opts":{"path":"/"},"server":"3.145.88.122","port":23625,"uuid":"0dd19d20-ec86-3680-b256-87237bafa89e","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_966","ws-opts":{"path":"/"},"server":"172.67.61.225","port":443,"uuid":"1db8e8e6-b2b0-476f-84f6-a5afd2419755","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_967","ws-opts":{"path":"/en-us/manage"},"server":"172.67.149.97","port":2095,"uuid":"7a2a80bf-6a99-4536-87f3-d4478701ed52","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_968","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.24.177.7","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_969","ws-opts":{"path":"/vmess"},"server":"135.148.47.240","port":80,"uuid":"fd4fa030-b8f1-424b-a780-578dbb59f950","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_970","ws-opts":{"path":"/clientarea"},"server":"103.149.145.115","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_971","ws-opts":{"path":"/api"},"server":"3.228.37.69","port":443,"uuid":"80e7dd59-b1fc-45a0-98be-1478a9af89f2","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_972","ws-opts":{"path":"/"},"server":"24.199.119.135","port":443,"uuid":"e6da31cb-6c97-4699-c412-124d5ab80856","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_973","ws-opts":{"path":"/"},"server":"146.190.82.241","port":443,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_974","ws-opts":{"path":"/chat"},"server":"173.230.157.137","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_975","ws-opts":{"path":"/aidapp.lifevws"},"server":"172.64.160.37","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_976","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.24.176.7","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_977","ws-opts":{"path":"/chat"},"server":"170.187.206.48","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_978","ws-opts":{"path":"/233blog"},"server":"ghxlh.tk","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_979","ws-opts":{"path":"/usv125N93nz"},"server":"104.21.16.3","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_980","ws-opts":{"path":"/speedtest"},"server":"104.26.5.78","port":443,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_981","ws-opts":{"path":"/aidapp.lifevws"},"server":"104.21.76.112","port":443,"uuid":"ee30d3ff-da14-4ea8-bcd2-02e8ee3667de","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_982","ws-opts":{"path":"/fkcgvws"},"server":"136.175.176.168","port":443,"uuid":"286ff9bd-26b8-39c2-d85e-ba20dc1a7e75","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_983","ws-opts":{"path":"/233blog"},"server":"172.67.182.90","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_985","ws-opts":{"path":"/"},"server":"134.195.211.174","port":40551,"uuid":"e9e20e42-b06e-4c7b-b54b-c779418d373a","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_986","ws-opts":{"path":"/8cda48b3"},"server":"172.67.217.89","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_987","ws-opts":{"path":"/233blog"},"server":"172.67.203.85","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_988","ws-opts":{"path":"/wafa/"},"server":"104.17.76.195","port":80,"uuid":"11288503-4f79-4659-a033-bf538ab14499","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_989","ws-opts":{"path":"/wafa/"},"server":"104.17.75.195","port":80,"uuid":"11288503-4f79-4659-a033-bf538ab14499","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_990","ws-opts":{"path":"/ray"},"server":"104.21.84.81","port":80,"uuid":"05ab5fed-281d-4882-c29c-3c6dc8434fb0","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_991","ws-opts":{"path":"/123"},"server":"172.67.178.127","port":443,"uuid":"26b5fbcf-d199-407e-e8bf-96d7489d247d","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_992","ws-opts":{"path":"/abc"},"server":"152.67.254.16","port":43815,"uuid":"7a9f026f-f7a8-40ca-f2f9-3b380c287c0d","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_993","ws-opts":{"path":"/233blog"},"server":"103.21.244.109","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_994","ws-opts":{"path":"/ray"},"server":"172.67.132.15","port":443,"uuid":"18e5f40f-bda6-4c15-9334-e87cda6047af","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1000","ws-opts":{"path":"/"},"server":"23.105.199.218","port":80,"uuid":"a7d0b7da-9821-40e9-dbcd-21e00d239a8f","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1001","ws-opts":{"path":"/"},"server":"144.34.175.46","port":80,"uuid":"751192f4-437e-4ea9-f34f-4f0252509267","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1002","ws-opts":{"path":"/us1"},"server":"173.82.155.24","port":80,"uuid":"6031b5c3-d8ba-5756-b708-f61084a2b678","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1003","ws-opts":{"path":"/"},"server":"104.21.58.176","port":443,"uuid":"20f14598-35f4-41b6-b540-4a1ed7560c0f","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1004","ws-opts":{"path":"/"},"server":"172.67.254.145","port":443,"uuid":"0df258cb-a376-4b8e-a378-a556a4658aeb","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1005","ws-opts":{"path":"/233blog"},"server":"103.21.244.95","port":443,"uuid":"aa586ced-9c6b-4882-aae5-f4fa3919c73c","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1006","ws-opts":{"path":"/vmess"},"server":"104.16.176.44","port":443,"uuid":"1efed92c-bdfb-4940-a56e-541ef9cca09a","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1010","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.161","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1011","ws-opts":{"path":"/chat"},"server":"74.207.251.9","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1013","ws-opts":{"path":"/chat"},"server":"vus3.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1014","ws-opts":{"path":"/chat"},"server":"vus5.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1015","ws-opts":{"path":"/clientarea"},"server":"sea21.nb1.fr","port":64443,"uuid":"cb7001c7-e495-41ac-b942-f25f60523414","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1016","ws-opts":{"path":"/dongtaiwang.com"},"server":"128.14.162.48","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1017","ws-opts":{"path":"/fthe4gsefgtdu"},"server":"172.67.72.172","port":443,"uuid":"1bff15f1-a71d-4f07-b8bf-9471708eff8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1019","ws-opts":{"path":"/video"},"server":"USG.fljsm.com","port":443,"uuid":"e5543efd-5400-3760-9bb6-02767728e888","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1020","ws-opts":{"path":"/lav002"},"server":"lav002.jd0001.top","port":44401,"uuid":"6abfad5a-24be-3657-85da-ceac782b7e19","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1021","ws-opts":{"path":"/ksebupo"},"server":"cvywfavasdc.cymlr.xyz","port":443,"uuid":"23f4bc80-3b0a-4aa3-cbe5-b8be4e8c32fc","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1022","ws-opts":{"path":"/8cda48b3"},"server":"172.67.1.182","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1023","ws-opts":{"path":"/v47-2023unlimitndxd"},"server":"v47a.toddns.tk","port":80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1024","ws-opts":{"path":"/nguevws"},"server":"dd3.1808.cf","port":443,"uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1025","ws-opts":{"path":"/WKtzeN11GLqwVNBTp9mX"},"server":"eu4.hax.yuji2022.gq","port":80,"uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1026","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.248","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1027","ws-opts":{"path":"/videnset"},"server":"172.67.137.72","port":443,"uuid":"db39ef95-4245-418a-84c0-14c202f29bc6","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1028","ws-opts":{"path":"/8cda48b3"},"server":"103.21.244.122","port":8443,"uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1029","ws-opts":{"path":"/vmess"},"server":"104.21.235.58","port":443,"uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_1030","server":"38.91.107.66","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"Cyber_1031","server":"38.91.102.125","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"Cyber_1033","server":"38.91.101.159","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"Cyber_1036","server":"38.68.135.239","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"Cyber_1037","server":"38.121.43.65","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"Cyber_1043","server":"38.91.107.227","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"vmess","name":"Cyber_1051","ws-opts":{"path":"/"},"server":"173.211.42.221","port":29633,"uuid":"f808ff53-b475-415d-840a-f05cb6af85f3","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1052","ws-opts":{"path":"/m3"},"server":"146.190.166.137","port":8882,"uuid":"90ea24f6-4b7f-4b4e-a9c1-de7d77b67e45","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1101","ws-opts":{"path":"/fthe4gsefgtdu"},"server":"172.67.77.95","port":443,"uuid":"1bff15f1-a71d-4f07-b8bf-9471708eff8b","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1102","ws-opts":{"path":"/xuexi"},"server":"104.17.199.25","port":443,"uuid":"860b543f-5039-473b-96ec-4494aebe4416","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1103","ws-opts":{"path":"/654f997b-5bea-4c82-9538-35ee57b6fd72"},"server":"143.204.89.108","port":443,"uuid":"654f997b-5bea-4c82-9538-35ee57b6fd72","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1105","ws-opts":{"path":"/ray"},"server":"13.227.241.58","port":80,"uuid":"c82e6674-2d1a-4c8e-b423-5d7939b9a8ea","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1106","ws-opts":{"path":"/"},"server":"172.64.174.151","port":443,"uuid":"18849b38-719b-483e-958b-45397595a8ec","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1107","ws-opts":{"path":"/ray"},"server":"13.227.254.146","port":80,"uuid":"7a400a2b-3748-47e9-df48-54a518f74056","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1108","ws-opts":{"path":"/us"},"server":"146.190.138.21","port":443,"uuid":"dc822f4e-cd60-4174-a93e-c1d3865976aa","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1110","ws-opts":{"path":"/ray"},"server":"13.227.243.216","port":80,"uuid":"d822dcfa-61c9-4dbd-b37f-d10548959ec2","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1111","ws-opts":{"path":"/yfjc/us2?ed=2048"},"server":"172.64.144.208","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1112","ws-opts":{"path":"/yfjc/jp2?ed=2048"},"server":"162.159.153.13","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1113","ws-opts":{"path":"/yfjc/jp1?ed=2048"},"server":"162.159.152.5","port":443,"uuid":"f92cbc43-7f00-4ee0-bfab-1ea4f39c2de9","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1114","ws-opts":{"path":"/CCTV6/hd.m3u8"},"server":"104.21.233.155","port":443,"uuid":"9f08a36d-d01e-46ab-a3ac-14a548c8b3e6","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1115","ws-opts":{"path":"/"},"server":"50.116.10.96","port":80,"uuid":"b53d410f-d53c-4531-9986-83725911ae30","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1116","server":"5.161.158.156","port":42822,"uuid":"59c20226-2529-4cec-e1e3-ba6d31492a38","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_1118","ws-opts":{"path":"/mR17oBKzZ7"},"server":"172.66.44.197","port":443,"uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"Cyber_1119","server":"5.161.135.196","port":40485,"uuid":"83569a3e-03b7-43ea-f329-ff08f13f80a8","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"Cyber_1121","ws-opts":{"path":"/1soxrkmb"},"server":"172.67.164.165","port":443,"uuid":"31f61660-a646-11ed-b539-205c6d5f5d78","alterId":32,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"Cyber_1130","server":"37.120.147.230","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"Cyber_1141","ws-opts":{"path":"/"},"server":"42.96.3.193","port":80,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1142","ws-opts":{"path":"/"},"server":"103.14.48.159","port":80,"uuid":"0f8dd795-7552-41e8-e7b7-faf6b54bc29a","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1143","ws-opts":{"path":"/tandung288.click"},"server":"103.166.185.227","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1144","ws-opts":{"path":"/tandung288.click"},"server":"103.166.183.226","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1145","ws-opts":{"path":"/tandung288.click"},"server":"103.56.160.184","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1146","ws-opts":{"path":"/tandung288.click"},"server":"103.166.184.157","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1147","ws-opts":{"path":"/tandung288.click"},"server":"103.166.183.151","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1148","ws-opts":{"path":"/tandung288.click"},"server":"103.183.118.19","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1149","ws-opts":{"path":"/tandung288.click"},"server":"103.82.24.79","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1150","ws-opts":{"path":"/tandung288.click"},"server":"103.82.24.174","port":80,"uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1151","ws-opts":{"path":"/"},"server":"103.231.248.222","port":80,"uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":32,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"Cyber_1152","ws-opts":{"path":"/"},"server":"129.151.164.152","port":55600,"uuid":"e30f8588-2555-48b8-c354-c8e63f57232d","alterId":32,"cipher":"auto","network":"ws"}
+  - {name: Cyber_1153, server: 86.wowogg.cyou, port: 52286, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: Cyber_1155, server: 106.55.187.139, port: 8448, type: vmess, uuid: 5a464707-3162-4a09-e9e2-d70a6b892267, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: download.cloud.189.cn}}}
+  - {name: Cyber_1158, server: v2ray.ibgfw.top, port: 2083, type: vmess, uuid: 71cd0fe5-6f4f-4ce1-941c-d56c3bb090a7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /5rtP40gj/, headers: {Host: v2ray.ibgfw.top}}}
+  - {name: Cyber_1161, server: b.gguu.pp.ua, port: 443, type: vmess, uuid: e959bcfa-500d-419a-b71d-e7fa2bf63969, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /123, headers: {Host: b.gguu.pp.ua}}}
+  - {name: Cyber_1162, server: hax-us4.sudoxin.tk, port: 443, type: vmess, uuid: c8e0f808-25d6-4911-833e-50b9f5050ba6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /c8e0f808-25d6-4911-833e-50b9f5050ba6, headers: {Host: hax-us4.sudoxin.tk}}}
+  - {name: Cyber_1163, server: 173.245.59.168, port: 8080, type: vmess, uuid: 27848739-7e62-4138-9fd3-938a63964b6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /KTR, headers: {Host: 4.arvanktbr.store}}}
+  - {name: Cyber_1164, server: uk-7.youngns.ml, port: 443, type: vmess, uuid: 0618e97a-9067-4514-8ebc-5c2963325bbd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-7.youngns.ml}}}
+  - {name: Cyber_1165, server: cf-lt.sharecentre.online, port: 8880, type: vmess, uuid: e59bd762-dacd-445c-8e2a-e1c5812949cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v10.asuka.buzz}}}
+  - {name: Cyber_1166, server: no.aries.ovh, port: 8880, type: vmess, uuid: e59bd762-dacd-445c-8e2a-e1c5812949cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v10.asuka.buzz}}}
+  - {name: Cyber_1167, server: free-eu1.tencent.sbs, port: 61011, type: vmess, uuid: d1860587-aa33-4b76-85cd-c191edecb338, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: free-eu1.tencent.sbs}}}
+  - {name: Cyber_1168, server: xn--5buw85e.xn--ghqw6jkw0a.live, port: 443, type: vmess, uuid: 9ca4e1fc-d564-413c-fa15-f1821099970b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xn--5buw85e.xn--ghqw6jkw0a.live}}}
+  - {name: Cyber_1169, server: cf.515188.xyz, port: 80, type: vmess, uuid: 462a1f83-f2f6-41de-c844-3e738d5a5648, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: uk2vc.vps-jdkz.cf}}}
+  - {name: Cyber_1170, server: a3.wzr905.ml, port: 80, type: vmess, uuid: f63dff77-c865-4f4d-bfa0-bef0597f6da4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: 7932, headers: {Host: a3.wzr905.ml}}}
+  - {name: Cyber_1172, server: us-dp.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: us-dp.sharecentre.online}}}
+  - {name: Cyber_1173, server: 203.30.191.18, port: 443, type: vmess, uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: clash6.ssr-free.xyz}}}
+  - {name: Cyber_1186, server: 106.245.77.162, port: 80, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: kr.sharecentre.online}}}
+  - {name: Cyber_1200, server: cf.bakapie.cf, port: 2096, type: vmess, uuid: 72fd33d5-5c1a-4193-96c6-665fc20b71c1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: 84a514ba.adorc.ml}}}
 
 
 proxy-groups:
@@ -599,94 +595,94 @@ proxy-groups:
       - Cyber_63
       - Cyber_67
       - Cyber_68
-      - Cyber_72
-      - Cyber_73
-      - Cyber_84
+      - Cyber_71
+      - Cyber_76
+      - Cyber_92
       - Cyber_93
       - Cyber_94
       - Cyber_95
       - Cyber_96
       - Cyber_97
       - Cyber_98
-      - Cyber_101
-      - Cyber_103
-      - Cyber_104
+      - Cyber_99
+      - Cyber_105
       - Cyber_106
-      - Cyber_107
-      - Cyber_110
-      - Cyber_114
-      - Cyber_116
-      - Cyber_117
-      - Cyber_118
-      - Cyber_119
+      - Cyber_108
+      - Cyber_109
+      - Cyber_112
       - Cyber_120
-      - Cyber_124
-      - Cyber_127
+      - Cyber_121
+      - Cyber_122
+      - Cyber_126
+      - Cyber_131
+      - Cyber_132
+      - Cyber_133
+      - Cyber_134
       - Cyber_135
-      - Cyber_136
       - Cyber_137
       - Cyber_138
       - Cyber_139
-      - Cyber_141
+      - Cyber_140
       - Cyber_142
       - Cyber_143
-      - Cyber_144
       - Cyber_146
       - Cyber_147
-      - Cyber_150
+      - Cyber_149
       - Cyber_151
-      - Cyber_153
-      - Cyber_155
-      - Cyber_182
-      - Cyber_200
-      - Cyber_256
+      - Cyber_178
+      - Cyber_196
+      - Cyber_252
+      - Cyber_253
+      - Cyber_254
       - Cyber_257
-      - Cyber_258
-      - Cyber_261
+      - Cyber_262
+      - Cyber_263
+      - Cyber_264
+      - Cyber_265
       - Cyber_266
-      - Cyber_267
-      - Cyber_268
-      - Cyber_269
-      - Cyber_270
-      - Cyber_285
-      - Cyber_286
+      - Cyber_281
+      - Cyber_282
+      - Cyber_290
+      - Cyber_291
+      - Cyber_292
+      - Cyber_293
       - Cyber_294
       - Cyber_295
-      - Cyber_296
       - Cyber_297
       - Cyber_298
-      - Cyber_299
-      - Cyber_301
-      - Cyber_302
-      - Cyber_311
-      - Cyber_313
-      - Cyber_314
-      - Cyber_320
-      - Cyber_331
-      - Cyber_351
-      - Cyber_353
-      - Cyber_358
-      - Cyber_359
+      - Cyber_307
+      - Cyber_309
+      - Cyber_310
+      - Cyber_316
+      - Cyber_327
+      - Cyber_347
+      - Cyber_349
+      - Cyber_354
+      - Cyber_355
+      - Cyber_372
+      - Cyber_373
       - Cyber_376
-      - Cyber_377
-      - Cyber_380
+      - Cyber_378
+      - Cyber_379
       - Cyber_382
       - Cyber_383
-      - Cyber_386
+      - Cyber_384
       - Cyber_387
-      - Cyber_388
-      - Cyber_391
-      - Cyber_427
-      - Cyber_472
+      - Cyber_423
+      - Cyber_468
+      - Cyber_480
       - Cyber_484
-      - Cyber_488
+      - Cyber_485
       - Cyber_489
-      - Cyber_493
+      - Cyber_490
+      - Cyber_491
       - Cyber_494
-      - Cyber_495
-      - Cyber_498
-      - Cyber_500
-      - Cyber_501
+      - Cyber_496
+      - Cyber_497
+      - Cyber_517
+      - Cyber_518
+      - Cyber_519
+      - Cyber_520
       - Cyber_521
       - Cyber_522
       - Cyber_523
@@ -696,45 +692,45 @@ proxy-groups:
       - Cyber_527
       - Cyber_528
       - Cyber_529
-      - Cyber_530
       - Cyber_531
-      - Cyber_532
-      - Cyber_533
+      - Cyber_534
       - Cyber_535
+      - Cyber_536
+      - Cyber_537
       - Cyber_538
       - Cyber_539
       - Cyber_540
       - Cyber_541
       - Cyber_542
       - Cyber_543
-      - Cyber_544
       - Cyber_545
       - Cyber_546
       - Cyber_547
-      - Cyber_549
-      - Cyber_550
-      - Cyber_551
-      - Cyber_552
-      - Cyber_559
+      - Cyber_548
+      - Cyber_555
+      - Cyber_556
+      - Cyber_557
+      - Cyber_558
       - Cyber_560
       - Cyber_561
       - Cyber_562
-      - Cyber_564
-      - Cyber_565
-      - Cyber_566
-      - Cyber_567
+      - Cyber_563
+      - Cyber_574
+      - Cyber_575
+      - Cyber_577
       - Cyber_578
-      - Cyber_579
-      - Cyber_581
       - Cyber_582
-      - Cyber_586
-      - Cyber_587
-      - Cyber_588
+      - Cyber_583
+      - Cyber_584
+      - Cyber_592
+      - Cyber_593
+      - Cyber_595
       - Cyber_596
       - Cyber_597
-      - Cyber_599
-      - Cyber_600
       - Cyber_601
+      - Cyber_602
+      - Cyber_603
+      - Cyber_604
       - Cyber_605
       - Cyber_606
       - Cyber_607
@@ -744,142 +740,142 @@ proxy-groups:
       - Cyber_611
       - Cyber_612
       - Cyber_613
-      - Cyber_614
-      - Cyber_615
-      - Cyber_616
-      - Cyber_617
+      - Cyber_620
       - Cyber_624
-      - Cyber_628
-      - Cyber_629
-      - Cyber_630
-      - Cyber_644
-      - Cyber_649
+      - Cyber_625
+      - Cyber_626
+      - Cyber_640
+      - Cyber_645
+      - Cyber_655
+      - Cyber_657
+      - Cyber_658
       - Cyber_659
+      - Cyber_660
       - Cyber_661
       - Cyber_662
-      - Cyber_663
       - Cyber_664
-      - Cyber_665
       - Cyber_666
+      - Cyber_667
       - Cyber_668
-      - Cyber_670
-      - Cyber_671
+      - Cyber_669
       - Cyber_672
-      - Cyber_673
-      - Cyber_676
+      - Cyber_675
+      - Cyber_678
       - Cyber_679
-      - Cyber_682
-      - Cyber_683
+      - Cyber_687
+      - Cyber_688
+      - Cyber_689
       - Cyber_691
-      - Cyber_692
       - Cyber_693
+      - Cyber_694
       - Cyber_695
+      - Cyber_696
       - Cyber_697
       - Cyber_698
       - Cyber_699
       - Cyber_700
-      - Cyber_701
       - Cyber_702
       - Cyber_703
-      - Cyber_704
-      - Cyber_706
-      - Cyber_707
+      - Cyber_714
+      - Cyber_715
       - Cyber_718
-      - Cyber_719
-      - Cyber_722
-      - Cyber_724
-      - Cyber_725
+      - Cyber_720
+      - Cyber_721
+      - Cyber_727
+      - Cyber_728
       - Cyber_731
       - Cyber_732
       - Cyber_735
-      - Cyber_736
-      - Cyber_739
-      - Cyber_764
+      - Cyber_760
+      - Cyber_767
+      - Cyber_769
+      - Cyber_770
       - Cyber_771
+      - Cyber_772
       - Cyber_773
       - Cyber_774
       - Cyber_775
       - Cyber_776
       - Cyber_777
-      - Cyber_778
-      - Cyber_779
       - Cyber_780
-      - Cyber_781
+      - Cyber_782
       - Cyber_784
-      - Cyber_786
+      - Cyber_785
       - Cyber_788
-      - Cyber_789
       - Cyber_792
+      - Cyber_793
+      - Cyber_794
+      - Cyber_795
       - Cyber_796
       - Cyber_797
       - Cyber_798
       - Cyber_799
       - Cyber_800
       - Cyber_801
-      - Cyber_802
       - Cyber_803
-      - Cyber_804
-      - Cyber_805
+      - Cyber_806
       - Cyber_807
-      - Cyber_810
+      - Cyber_808
+      - Cyber_809
       - Cyber_811
-      - Cyber_812
       - Cyber_813
+      - Cyber_814
       - Cyber_815
+      - Cyber_816
       - Cyber_817
       - Cyber_818
       - Cyber_819
-      - Cyber_820
-      - Cyber_821
       - Cyber_822
-      - Cyber_823
-      - Cyber_826
+      - Cyber_828
+      - Cyber_830
       - Cyber_832
-      - Cyber_834
+      - Cyber_833
       - Cyber_836
-      - Cyber_837
-      - Cyber_840
-      - Cyber_843
-      - Cyber_846
-      - Cyber_848
-      - Cyber_849
-      - Cyber_859
+      - Cyber_839
+      - Cyber_842
+      - Cyber_844
+      - Cyber_845
+      - Cyber_855
+      - Cyber_857
+      - Cyber_858
       - Cyber_861
-      - Cyber_862
-      - Cyber_865
-      - Cyber_874
-      - Cyber_889
-      - Cyber_904
+      - Cyber_870
+      - Cyber_885
+      - Cyber_900
+      - Cyber_914
       - Cyber_918
-      - Cyber_922
-      - Cyber_925
-      - Cyber_927
-      - Cyber_928
-      - Cyber_930
+      - Cyber_921
+      - Cyber_923
+      - Cyber_924
+      - Cyber_926
+      - Cyber_933
       - Cyber_937
+      - Cyber_939
       - Cyber_941
+      - Cyber_942
       - Cyber_943
+      - Cyber_944
       - Cyber_945
       - Cyber_946
-      - Cyber_947
       - Cyber_948
       - Cyber_949
       - Cyber_950
+      - Cyber_951
       - Cyber_952
-      - Cyber_953
-      - Cyber_954
       - Cyber_955
       - Cyber_956
+      - Cyber_957
+      - Cyber_958
       - Cyber_959
       - Cyber_960
       - Cyber_961
       - Cyber_962
       - Cyber_963
       - Cyber_964
-      - Cyber_965
       - Cyber_966
       - Cyber_967
       - Cyber_968
+      - Cyber_969
       - Cyber_970
       - Cyber_971
       - Cyber_972
@@ -894,34 +890,34 @@ proxy-groups:
       - Cyber_981
       - Cyber_982
       - Cyber_983
-      - Cyber_984
       - Cyber_985
       - Cyber_986
       - Cyber_987
+      - Cyber_988
       - Cyber_989
       - Cyber_990
       - Cyber_991
       - Cyber_992
       - Cyber_993
       - Cyber_994
-      - Cyber_995
-      - Cyber_996
-      - Cyber_997
-      - Cyber_998
+      - Cyber_1000
+      - Cyber_1001
+      - Cyber_1002
+      - Cyber_1003
       - Cyber_1004
       - Cyber_1005
       - Cyber_1006
-      - Cyber_1007
-      - Cyber_1008
-      - Cyber_1009
       - Cyber_1010
+      - Cyber_1011
+      - Cyber_1013
       - Cyber_1014
       - Cyber_1015
+      - Cyber_1016
       - Cyber_1017
-      - Cyber_1018
       - Cyber_1019
       - Cyber_1020
       - Cyber_1021
+      - Cyber_1022
       - Cyber_1023
       - Cyber_1024
       - Cyber_1025
@@ -931,34 +927,34 @@ proxy-groups:
       - Cyber_1029
       - Cyber_1030
       - Cyber_1031
-      - Cyber_1032
       - Cyber_1033
-      - Cyber_1034
-      - Cyber_1035
+      - Cyber_1036
       - Cyber_1037
-      - Cyber_1040
-      - Cyber_1041
-      - Cyber_1047
-      - Cyber_1055
-      - Cyber_1056
+      - Cyber_1043
+      - Cyber_1051
+      - Cyber_1052
+      - Cyber_1101
+      - Cyber_1102
+      - Cyber_1103
       - Cyber_1105
       - Cyber_1106
       - Cyber_1107
-      - Cyber_1109
+      - Cyber_1108
       - Cyber_1110
       - Cyber_1111
       - Cyber_1112
+      - Cyber_1113
       - Cyber_1114
       - Cyber_1115
       - Cyber_1116
-      - Cyber_1117
       - Cyber_1118
       - Cyber_1119
-      - Cyber_1120
-      - Cyber_1122
-      - Cyber_1123
-      - Cyber_1125
-      - Cyber_1134
+      - Cyber_1121
+      - Cyber_1130
+      - Cyber_1141
+      - Cyber_1142
+      - Cyber_1143
+      - Cyber_1144
       - Cyber_1145
       - Cyber_1146
       - Cyber_1147
@@ -968,26 +964,22 @@ proxy-groups:
       - Cyber_1151
       - Cyber_1152
       - Cyber_1153
-      - Cyber_1154
       - Cyber_1155
-      - Cyber_1156
-      - Cyber_1157
-      - Cyber_1159
+      - Cyber_1158
+      - Cyber_1161
       - Cyber_1162
+      - Cyber_1163
+      - Cyber_1164
       - Cyber_1165
       - Cyber_1166
       - Cyber_1167
       - Cyber_1168
       - Cyber_1169
       - Cyber_1170
-      - Cyber_1171
       - Cyber_1172
       - Cyber_1173
-      - Cyber_1174
-      - Cyber_1176
-      - Cyber_1177
-      - Cyber_1190
-      - Cyber_1204
+      - Cyber_1186
+      - Cyber_1200
 
 
 
@@ -1049,94 +1041,94 @@ proxy-groups:
       - Cyber_63
       - Cyber_67
       - Cyber_68
-      - Cyber_72
-      - Cyber_73
-      - Cyber_84
+      - Cyber_71
+      - Cyber_76
+      - Cyber_92
       - Cyber_93
       - Cyber_94
       - Cyber_95
       - Cyber_96
       - Cyber_97
       - Cyber_98
-      - Cyber_101
-      - Cyber_103
-      - Cyber_104
+      - Cyber_99
+      - Cyber_105
       - Cyber_106
-      - Cyber_107
-      - Cyber_110
-      - Cyber_114
-      - Cyber_116
-      - Cyber_117
-      - Cyber_118
-      - Cyber_119
+      - Cyber_108
+      - Cyber_109
+      - Cyber_112
       - Cyber_120
-      - Cyber_124
-      - Cyber_127
+      - Cyber_121
+      - Cyber_122
+      - Cyber_126
+      - Cyber_131
+      - Cyber_132
+      - Cyber_133
+      - Cyber_134
       - Cyber_135
-      - Cyber_136
       - Cyber_137
       - Cyber_138
       - Cyber_139
-      - Cyber_141
+      - Cyber_140
       - Cyber_142
       - Cyber_143
-      - Cyber_144
       - Cyber_146
       - Cyber_147
-      - Cyber_150
+      - Cyber_149
       - Cyber_151
-      - Cyber_153
-      - Cyber_155
-      - Cyber_182
-      - Cyber_200
-      - Cyber_256
+      - Cyber_178
+      - Cyber_196
+      - Cyber_252
+      - Cyber_253
+      - Cyber_254
       - Cyber_257
-      - Cyber_258
-      - Cyber_261
+      - Cyber_262
+      - Cyber_263
+      - Cyber_264
+      - Cyber_265
       - Cyber_266
-      - Cyber_267
-      - Cyber_268
-      - Cyber_269
-      - Cyber_270
-      - Cyber_285
-      - Cyber_286
+      - Cyber_281
+      - Cyber_282
+      - Cyber_290
+      - Cyber_291
+      - Cyber_292
+      - Cyber_293
       - Cyber_294
       - Cyber_295
-      - Cyber_296
       - Cyber_297
       - Cyber_298
-      - Cyber_299
-      - Cyber_301
-      - Cyber_302
-      - Cyber_311
-      - Cyber_313
-      - Cyber_314
-      - Cyber_320
-      - Cyber_331
-      - Cyber_351
-      - Cyber_353
-      - Cyber_358
-      - Cyber_359
+      - Cyber_307
+      - Cyber_309
+      - Cyber_310
+      - Cyber_316
+      - Cyber_327
+      - Cyber_347
+      - Cyber_349
+      - Cyber_354
+      - Cyber_355
+      - Cyber_372
+      - Cyber_373
       - Cyber_376
-      - Cyber_377
-      - Cyber_380
+      - Cyber_378
+      - Cyber_379
       - Cyber_382
       - Cyber_383
-      - Cyber_386
+      - Cyber_384
       - Cyber_387
-      - Cyber_388
-      - Cyber_391
-      - Cyber_427
-      - Cyber_472
+      - Cyber_423
+      - Cyber_468
+      - Cyber_480
       - Cyber_484
-      - Cyber_488
+      - Cyber_485
       - Cyber_489
-      - Cyber_493
+      - Cyber_490
+      - Cyber_491
       - Cyber_494
-      - Cyber_495
-      - Cyber_498
-      - Cyber_500
-      - Cyber_501
+      - Cyber_496
+      - Cyber_497
+      - Cyber_517
+      - Cyber_518
+      - Cyber_519
+      - Cyber_520
       - Cyber_521
       - Cyber_522
       - Cyber_523
@@ -1146,45 +1138,45 @@ proxy-groups:
       - Cyber_527
       - Cyber_528
       - Cyber_529
-      - Cyber_530
       - Cyber_531
-      - Cyber_532
-      - Cyber_533
+      - Cyber_534
       - Cyber_535
+      - Cyber_536
+      - Cyber_537
       - Cyber_538
       - Cyber_539
       - Cyber_540
       - Cyber_541
       - Cyber_542
       - Cyber_543
-      - Cyber_544
       - Cyber_545
       - Cyber_546
       - Cyber_547
-      - Cyber_549
-      - Cyber_550
-      - Cyber_551
-      - Cyber_552
-      - Cyber_559
+      - Cyber_548
+      - Cyber_555
+      - Cyber_556
+      - Cyber_557
+      - Cyber_558
       - Cyber_560
       - Cyber_561
       - Cyber_562
-      - Cyber_564
-      - Cyber_565
-      - Cyber_566
-      - Cyber_567
+      - Cyber_563
+      - Cyber_574
+      - Cyber_575
+      - Cyber_577
       - Cyber_578
-      - Cyber_579
-      - Cyber_581
       - Cyber_582
-      - Cyber_586
-      - Cyber_587
-      - Cyber_588
+      - Cyber_583
+      - Cyber_584
+      - Cyber_592
+      - Cyber_593
+      - Cyber_595
       - Cyber_596
       - Cyber_597
-      - Cyber_599
-      - Cyber_600
       - Cyber_601
+      - Cyber_602
+      - Cyber_603
+      - Cyber_604
       - Cyber_605
       - Cyber_606
       - Cyber_607
@@ -1194,142 +1186,142 @@ proxy-groups:
       - Cyber_611
       - Cyber_612
       - Cyber_613
-      - Cyber_614
-      - Cyber_615
-      - Cyber_616
-      - Cyber_617
+      - Cyber_620
       - Cyber_624
-      - Cyber_628
-      - Cyber_629
-      - Cyber_630
-      - Cyber_644
-      - Cyber_649
+      - Cyber_625
+      - Cyber_626
+      - Cyber_640
+      - Cyber_645
+      - Cyber_655
+      - Cyber_657
+      - Cyber_658
       - Cyber_659
+      - Cyber_660
       - Cyber_661
       - Cyber_662
-      - Cyber_663
       - Cyber_664
-      - Cyber_665
       - Cyber_666
+      - Cyber_667
       - Cyber_668
-      - Cyber_670
-      - Cyber_671
+      - Cyber_669
       - Cyber_672
-      - Cyber_673
-      - Cyber_676
+      - Cyber_675
+      - Cyber_678
       - Cyber_679
-      - Cyber_682
-      - Cyber_683
+      - Cyber_687
+      - Cyber_688
+      - Cyber_689
       - Cyber_691
-      - Cyber_692
       - Cyber_693
+      - Cyber_694
       - Cyber_695
+      - Cyber_696
       - Cyber_697
       - Cyber_698
       - Cyber_699
       - Cyber_700
-      - Cyber_701
       - Cyber_702
       - Cyber_703
-      - Cyber_704
-      - Cyber_706
-      - Cyber_707
+      - Cyber_714
+      - Cyber_715
       - Cyber_718
-      - Cyber_719
-      - Cyber_722
-      - Cyber_724
-      - Cyber_725
+      - Cyber_720
+      - Cyber_721
+      - Cyber_727
+      - Cyber_728
       - Cyber_731
       - Cyber_732
       - Cyber_735
-      - Cyber_736
-      - Cyber_739
-      - Cyber_764
+      - Cyber_760
+      - Cyber_767
+      - Cyber_769
+      - Cyber_770
       - Cyber_771
+      - Cyber_772
       - Cyber_773
       - Cyber_774
       - Cyber_775
       - Cyber_776
       - Cyber_777
-      - Cyber_778
-      - Cyber_779
       - Cyber_780
-      - Cyber_781
+      - Cyber_782
       - Cyber_784
-      - Cyber_786
+      - Cyber_785
       - Cyber_788
-      - Cyber_789
       - Cyber_792
+      - Cyber_793
+      - Cyber_794
+      - Cyber_795
       - Cyber_796
       - Cyber_797
       - Cyber_798
       - Cyber_799
       - Cyber_800
       - Cyber_801
-      - Cyber_802
       - Cyber_803
-      - Cyber_804
-      - Cyber_805
+      - Cyber_806
       - Cyber_807
-      - Cyber_810
+      - Cyber_808
+      - Cyber_809
       - Cyber_811
-      - Cyber_812
       - Cyber_813
+      - Cyber_814
       - Cyber_815
+      - Cyber_816
       - Cyber_817
       - Cyber_818
       - Cyber_819
-      - Cyber_820
-      - Cyber_821
       - Cyber_822
-      - Cyber_823
-      - Cyber_826
+      - Cyber_828
+      - Cyber_830
       - Cyber_832
-      - Cyber_834
+      - Cyber_833
       - Cyber_836
-      - Cyber_837
-      - Cyber_840
-      - Cyber_843
-      - Cyber_846
-      - Cyber_848
-      - Cyber_849
-      - Cyber_859
+      - Cyber_839
+      - Cyber_842
+      - Cyber_844
+      - Cyber_845
+      - Cyber_855
+      - Cyber_857
+      - Cyber_858
       - Cyber_861
-      - Cyber_862
-      - Cyber_865
-      - Cyber_874
-      - Cyber_889
-      - Cyber_904
+      - Cyber_870
+      - Cyber_885
+      - Cyber_900
+      - Cyber_914
       - Cyber_918
-      - Cyber_922
-      - Cyber_925
-      - Cyber_927
-      - Cyber_928
-      - Cyber_930
+      - Cyber_921
+      - Cyber_923
+      - Cyber_924
+      - Cyber_926
+      - Cyber_933
       - Cyber_937
+      - Cyber_939
       - Cyber_941
+      - Cyber_942
       - Cyber_943
+      - Cyber_944
       - Cyber_945
       - Cyber_946
-      - Cyber_947
       - Cyber_948
       - Cyber_949
       - Cyber_950
+      - Cyber_951
       - Cyber_952
-      - Cyber_953
-      - Cyber_954
       - Cyber_955
       - Cyber_956
+      - Cyber_957
+      - Cyber_958
       - Cyber_959
       - Cyber_960
       - Cyber_961
       - Cyber_962
       - Cyber_963
       - Cyber_964
-      - Cyber_965
       - Cyber_966
       - Cyber_967
       - Cyber_968
+      - Cyber_969
       - Cyber_970
       - Cyber_971
       - Cyber_972
@@ -1344,34 +1336,34 @@ proxy-groups:
       - Cyber_981
       - Cyber_982
       - Cyber_983
-      - Cyber_984
       - Cyber_985
       - Cyber_986
       - Cyber_987
+      - Cyber_988
       - Cyber_989
       - Cyber_990
       - Cyber_991
       - Cyber_992
       - Cyber_993
       - Cyber_994
-      - Cyber_995
-      - Cyber_996
-      - Cyber_997
-      - Cyber_998
+      - Cyber_1000
+      - Cyber_1001
+      - Cyber_1002
+      - Cyber_1003
       - Cyber_1004
       - Cyber_1005
       - Cyber_1006
-      - Cyber_1007
-      - Cyber_1008
-      - Cyber_1009
       - Cyber_1010
+      - Cyber_1011
+      - Cyber_1013
       - Cyber_1014
       - Cyber_1015
+      - Cyber_1016
       - Cyber_1017
-      - Cyber_1018
       - Cyber_1019
       - Cyber_1020
       - Cyber_1021
+      - Cyber_1022
       - Cyber_1023
       - Cyber_1024
       - Cyber_1025
@@ -1381,34 +1373,34 @@ proxy-groups:
       - Cyber_1029
       - Cyber_1030
       - Cyber_1031
-      - Cyber_1032
       - Cyber_1033
-      - Cyber_1034
-      - Cyber_1035
+      - Cyber_1036
       - Cyber_1037
-      - Cyber_1040
-      - Cyber_1041
-      - Cyber_1047
-      - Cyber_1055
-      - Cyber_1056
+      - Cyber_1043
+      - Cyber_1051
+      - Cyber_1052
+      - Cyber_1101
+      - Cyber_1102
+      - Cyber_1103
       - Cyber_1105
       - Cyber_1106
       - Cyber_1107
-      - Cyber_1109
+      - Cyber_1108
       - Cyber_1110
       - Cyber_1111
       - Cyber_1112
+      - Cyber_1113
       - Cyber_1114
       - Cyber_1115
       - Cyber_1116
-      - Cyber_1117
       - Cyber_1118
       - Cyber_1119
-      - Cyber_1120
-      - Cyber_1122
-      - Cyber_1123
-      - Cyber_1125
-      - Cyber_1134
+      - Cyber_1121
+      - Cyber_1130
+      - Cyber_1141
+      - Cyber_1142
+      - Cyber_1143
+      - Cyber_1144
       - Cyber_1145
       - Cyber_1146
       - Cyber_1147
@@ -1418,26 +1410,22 @@ proxy-groups:
       - Cyber_1151
       - Cyber_1152
       - Cyber_1153
-      - Cyber_1154
       - Cyber_1155
-      - Cyber_1156
-      - Cyber_1157
-      - Cyber_1159
+      - Cyber_1158
+      - Cyber_1161
       - Cyber_1162
+      - Cyber_1163
+      - Cyber_1164
       - Cyber_1165
       - Cyber_1166
       - Cyber_1167
       - Cyber_1168
       - Cyber_1169
       - Cyber_1170
-      - Cyber_1171
       - Cyber_1172
       - Cyber_1173
-      - Cyber_1174
-      - Cyber_1176
-      - Cyber_1177
-      - Cyber_1190
-      - Cyber_1204
+      - Cyber_1186
+      - Cyber_1200
 
 
   - name: ⛔Direct

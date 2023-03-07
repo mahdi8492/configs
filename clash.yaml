@@ -149,43 +149,40 @@ proxies:
   - {name: Cyber_52, server: 138.2.44.211, port: 20081, type: vmess, uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: Cyber_54, server: 190.93.247.38, port: 2082, type: vmess, uuid: 082122a2-8479-4089-82f0-f32ba5fc5426, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bb, headers: {Host: hao.huaqian.icu}}}
   - {name: Cyber_55, server: 188.114.96.46, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /huhublog, headers: {Host: zhuyong.hucloud-dns.xyz}}}
-  - {"name":"Cyber_56","server":"43.200.244.234","type":"ss","country":"🇦🇺 AU","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_57","server":"185.167.116.253","type":"ss","country":"🇦🇺 AU","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_58","server":"43.201.37.176","type":"ss","country":"🇦🇺 AU","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_59","server":"43.201.48.212","type":"ss","country":"🇦🇺 AU","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_61","server":"43.201.86.41","type":"ss","country":"🇦🇺 AU","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_62","server":"ddns.kunlunlancloud.com","type":"ss","country":"🇨🇳 CN","port":37093,"password":"62bad9b7-cfb2-4989-b0b9-6cc9de4bb5c3","cipher":"aes-128-gcm"}
-  - {"name":"Cyber_64","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_65","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_66","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_71","server":"212.38.189.174","type":"ss","country":"🇬🇧 GB","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_74","server":"85.208.108.22","type":"ss","country":"🇳🇱 NL","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_75","server":"85.208.108.60","type":"ss","country":"🇳🇱 NL","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_78","server":"85.208.108.18","type":"ss","country":"🇳🇱 NL","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_80","server":"85.208.108.59","type":"ss","country":"🇳🇱 NL","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_99","server":"139.162.41.174","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_100","server":"18.141.224.98","type":"ss","country":"🇸🇬 SG","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_101","server":"81.90.189.41","type":"ss","country":"🇸🇬 SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"Cyber_102","server":"139.162.5.19","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_103","server":"54.203.94.5","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"Cyber_104","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_105","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_106","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_108","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_111","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_113","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_118","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_120","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_121","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_122","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_129","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_130","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_135","server":"172.99.190.61","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_137","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_138","server":"38.91.102.30","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_143","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_144","server":"169.197.141.187","type":"ss","country":"🏁 ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-  - {"name":"Cyber_145","server":"169.197.142.48","type":"ss","country":"🏁 ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_56","server":"43.207.66.114","type":"ss","country":"🇦🇺 AU","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_57","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_58","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_60","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_64","server":"212.38.189.174","type":"ss","country":"🇬🇧 GB","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_67","server":"185.160.26.91","type":"ss","country":"🇯🇵 JP","port":1664,"password":"Xs9ORT4j65b8HreZrg0p","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"Cyber_71","server":"3.34.40.140","type":"ss","country":"🇰🇷 KR","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_72","server":"85.208.108.60","type":"ss","country":"🇳🇱 NL","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_73","server":"85.208.108.22","type":"ss","country":"🇳🇱 NL","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_78","server":"85.208.108.18","type":"ss","country":"🇳🇱 NL","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_89","server":"85.208.108.59","type":"ss","country":"🇳🇱 NL","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_97","server":"139.162.41.174","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_98","server":"81.90.189.41","type":"ss","country":"🇸🇬 SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"Cyber_99","server":"139.162.5.19","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_100","server":"54.186.216.67","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_101","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_102","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_103","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_105","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_106","server":"38.91.102.30","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_108","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_109","server":"172.99.190.61","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_112","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_116","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_120","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_121","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_125","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_128","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_132","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_135","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_141","server":"13.215.191.190","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+  - {"name":"Cyber_143","server":"169.197.141.187","type":"ss","country":"🏁 ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_144","server":"169.197.142.48","type":"ss","country":"🏁 ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+  - {"name":"Cyber_145","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
   - {"name":"Cyber_146","type":"vmess","server":"alqa1.6bbt.tk","port":443,"cipher":"auto","uuid":"6e41c22a-2794-4504-a05a-4f8def6d0bf5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/6bbt.tk"}}
   - {"name":"Cyber_147","type":"vmess","server":"139.185.43.191","port":443,"cipher":"auto","uuid":"6e41c22a-2794-4504-a05a-4f8def6d0bf5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/6bbt.tk"}}
   - {"name":"Cyber_148","type":"vmess","server":"dba3.6bbt.tk","port":443,"cipher":"auto","uuid":"6e41c22a-2794-4504-a05a-4f8def6d0bf5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/6bbt.tk"}}
@@ -2310,37 +2307,34 @@ proxy-groups:
       - Cyber_56
       - Cyber_57
       - Cyber_58
-      - Cyber_59
-      - Cyber_61
-      - Cyber_62
+      - Cyber_60
       - Cyber_64
-      - Cyber_65
-      - Cyber_66
+      - Cyber_67
       - Cyber_71
-      - Cyber_74
-      - Cyber_75
+      - Cyber_72
+      - Cyber_73
       - Cyber_78
-      - Cyber_80
+      - Cyber_89
+      - Cyber_97
+      - Cyber_98
       - Cyber_99
       - Cyber_100
       - Cyber_101
       - Cyber_102
       - Cyber_103
-      - Cyber_104
       - Cyber_105
       - Cyber_106
       - Cyber_108
-      - Cyber_111
-      - Cyber_113
-      - Cyber_118
+      - Cyber_109
+      - Cyber_112
+      - Cyber_116
       - Cyber_120
       - Cyber_121
-      - Cyber_122
-      - Cyber_129
-      - Cyber_130
+      - Cyber_125
+      - Cyber_128
+      - Cyber_132
       - Cyber_135
-      - Cyber_137
-      - Cyber_138
+      - Cyber_141
       - Cyber_143
       - Cyber_144
       - Cyber_145
@@ -4468,37 +4462,34 @@ proxy-groups:
       - Cyber_56
       - Cyber_57
       - Cyber_58
-      - Cyber_59
-      - Cyber_61
-      - Cyber_62
+      - Cyber_60
       - Cyber_64
-      - Cyber_65
-      - Cyber_66
+      - Cyber_67
       - Cyber_71
-      - Cyber_74
-      - Cyber_75
+      - Cyber_72
+      - Cyber_73
       - Cyber_78
-      - Cyber_80
+      - Cyber_89
+      - Cyber_97
+      - Cyber_98
       - Cyber_99
       - Cyber_100
       - Cyber_101
       - Cyber_102
       - Cyber_103
-      - Cyber_104
       - Cyber_105
       - Cyber_106
       - Cyber_108
-      - Cyber_111
-      - Cyber_113
-      - Cyber_118
+      - Cyber_109
+      - Cyber_112
+      - Cyber_116
       - Cyber_120
       - Cyber_121
-      - Cyber_122
-      - Cyber_129
-      - Cyber_130
+      - Cyber_125
+      - Cyber_128
+      - Cyber_132
       - Cyber_135
-      - Cyber_137
-      - Cyber_138
+      - Cyber_141
       - Cyber_143
       - Cyber_144
       - Cyber_145

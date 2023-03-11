@@ -2207,44 +2207,25 @@ proxies:
   - {"name":"Cyber_3827","type":"vmess","server":"103.166.185.227","port":80,"cipher":"auto","uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tandung288.click"}}
   - {"name":"Cyber_3828","type":"vmess","server":"103.166.183.226","port":80,"cipher":"auto","uuid":"8886bc65-e61d-41f3-922a-8f1b25b499bf","alterId":32,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tandung288.click"}}
   - {name: Cyber_3830, server: 86.wowogg.cyou, port: 52286, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_3835, server: b.gguu.pp.ua, port: 443, type: vmess, uuid: e959bcfa-500d-419a-b71d-e7fa2bf63969, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /123, headers: {Host: b.gguu.pp.ua}}}
-  - {name: Cyber_3837, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aws-jp.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: aws-jp.sharecentre.online}}}
-  - {name: Cyber_3838, server: 106.245.77.162, port: 80, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: kr.sharecentre.online}}}
-  - {name: Cyber_3839, server: us-vir.minl.me, port: 443, type: vmess, uuid: 2ddcf12d-52fa-4e09-b4f1-c52d5cbee69b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /usvcus, headers: {Host: us-vir.minl.me}}}
-  - {name: Cyber_3840, server: pro01.my1188.org, port: 3023, type: vmess, uuid: 0f01682d-2454-3fd5-beec-53ea4cec7e0c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hkbgp-mg.iepl.nbsd.us}}}
-  - {name: Cyber_3841, server: www.udemy.com, port: 8080, type: vmess, uuid: 397489e0-a0b4-11ed-b443-1577c1651679, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg-ovh2.1server.co}}}
-  - {name: Cyber_3843, server: 18.191.178.214, port: 39999, type: vmess, uuid: bcc07473-9b9b-4542-a870-9d9b54b060aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_3844, server: no.aries.ovh, port: 2052, type: vmess, uuid: bcc07473-9b9b-4542-a870-9d9b54b060aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: contabo.cloudflare.quest}}}
-  - {name: Cyber_3864, server: shopify.com, port: 443, type: vmess, uuid: 9f7566ff-ef75-4b10-88fc-ec31c6eda5a4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sbga, headers: {Host: vc-ca1.misakano.ml}}}
-  - {name: Cyber_3867, server: 36.156.102.166, port: 10001, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_3868, server: cs1.bbcloud.life, port: 35459, type: vmess, uuid: 026056ab-a315-4eb9-babf-f95d473e621c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cs1.bbcloud.life}}}
-  - {name: Cyber_3869, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v2.shwjfkw.cn}}}
-  - {name: Cyber_3870, server: data-hk-v1.shwjfkw.cn, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v1.shwjfkw.cn}}}
-  - {name: Cyber_3871, server: 103.45.78.251, port: 10004, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_3873, server: 36.156.102.164, port: 10003, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: Cyber_3874, server: 25.v2-ray.cyou, port: 23625, type: vmess, uuid: 0dd19d20-ec86-3680-b256-87237bafa89e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 25.v2-ray.cyou}}}
-  - {name: Cyber_3876, server: 2162e620-3315-61b3-d55d-9bf95b93ae40.cnnic.rip, port: 20004, type: vmess, uuid: 9589b882-569a-43c5-924e-a9e852d4ff9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tms.dingtalk.com}}}
-  - {name: Cyber_3877, server: www.sakuradream.top, port: 12443, type: vmess, uuid: e4c8264b-3e51-4fa3-a95b-fa7309c82d5a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /a727905abc91/, headers: {Host: www.sakuradream.top}}}
-  - {name: Cyber_3878, server: hk-iv.somnode.top, port: 80, type: vmess, uuid: d41c193f-52ca-3ef9-9cf5-e7d50330f26e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: hk-iv.somnode.top}}}
-  - {name: Cyber_3885, server: cf-yd-dns.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-1.sharecentre.online}}}
-  - {name: Cyber_3886, server: cf-lt-dns.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: us-dp.sharecentre.online}}}
-  - {name: Cyber_3887, server: kh.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: kh.sharecentre.online}}}
-  - {name: Cyber_3890, server: mjj3011.hjdn.tk, port: 443, type: vmess, uuid: 06371d67-d976-4c84-ecdf-d7c989e80155, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /54321, headers: {Host: mjj3011.hjdn.tk}}}
-  - {name: Cyber_3893, server: zfc.windowsupdate1.com, port: 443, type: vmess, uuid: 769c2da7-add3-42e8-a03c-07be9fcf483c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/yfjc/nl?ed=2048", headers: {Host: nl.yfjc.sbs}}}
-  - {name: Cyber_3897, server: hk-gcore.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk-gcore.sharecentre.online}}}
-  - {name: Cyber_3898, server: buyvm.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: buyvm.sharecentre.online}}}
-  - {name: Cyber_3906, server: news.microsoft.com, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /9JZFDTKE, headers: {Host: fr1.trump2023.org}}}
-  - {name: Cyber_3913, server: vuk1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /chat, headers: {Host: vuk1.0bad.com}}}
-  - {name: Cyber_3914, server: hk-2.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk-2.sharecentre.online}}}
-  - {name: Cyber_3915, server: buyvm-ny.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: buyvm-ny.sharecentre.online}}}
-  - {name: Cyber_3918, server: sg-1.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-1.sharecentre.online}}}
-  - {name: Cyber_3919, server: hucloud.tk, port: 443, type: vmess, uuid: 2df3ed4a-4313-45f9-b742-2f02ce593a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /huhu, headers: {Host: hucloud.tk}}}
-  - {name: Cyber_3924, server: lu.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lu.sharecentre.online}}}
-  - {name: Cyber_3926, server: usdo.tzccifq.ga, port: 443, type: vmess, uuid: 58eb724d-5a95-4b9c-851e-2cb3b408e85f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: usdo.tzccifq.ga}}}
-  - {name: Cyber_3927, server: ca1.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca1.sharecentre.online}}}
-  - {name: Cyber_3930, server: sg-gcore.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore.sharecentre.online}}}
-  - {name: Cyber_3936, server: icook.hk, port: 80, type: vmess, uuid: 3eb05cb6-d2e1-4a31-9f82-514cfa98fe15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/ray?ed=2048", headers: {Host: 2woid.weigogogo.cf}}}
-  - {name: Cyber_3940, server: vus2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus2.0bad.com}}}
+  - {name: Cyber_3838, server: data-hk-v1.shwjfkw.cn, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: data-hk-v1.shwjfkw.cn}}}
+  - {name: Cyber_3840, server: news.microsoft.com, port: 443, type: vmess, uuid: 2b214122-1906-428a-bbb7-a039cbb7cd5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /9JZFDTKE, headers: {Host: fr1.trump2023.org}}}
+  - {name: Cyber_3843, server: hucloud.tk, port: 443, type: vmess, uuid: 2df3ed4a-4313-45f9-b742-2f02ce593a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /huhu, headers: {Host: hucloud.tk}}}
+  - {name: Cyber_3845, server: usdo.tzccifq.ga, port: 443, type: vmess, uuid: 58eb724d-5a95-4b9c-851e-2cb3b408e85f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: usdo.tzccifq.ga}}}
+  - {name: Cyber_3847, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp1.sharecentrepro.com, network: ws, ws-opts: {path: /shirker, headers: {Host: jp1.sharecentrepro.com}}}
+  - {name: Cyber_3851, server: no.aries.ovh, port: 80, type: vmess, uuid: 88e5a793-3875-4c63-940c-bd6ea11075cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ssrsub.v10.asuka.buzz}}}
+  - {name: Cyber_3852, server: cf.bakapie.cf, port: 2096, type: vmess, uuid: 1f8fdfd4-2df2-4d16-88c4-02666ae72416, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: 84a514ba.8200860.xyz}}}
+  - {name: Cyber_3854, server: finland2.yj2022.ga, port: 443, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yWJGGBHoVpr3DbNuVycP, headers: {Host: finland2.yj2022.ga}}}
+  - {name: Cyber_3855, server: dp2.scproxy.top, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: dp2.scproxy.top}}}
+  - {name: Cyber_3856, server: 203.30.189.1, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ECTCJ0DF, headers: {Host: 154.v2ray3.xyz}}}
+  - {name: Cyber_3857, server: lv1.sharecentrepro.org, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lv1.sharecentrepro.org}}}
+  - {name: Cyber_3860, server: fr1.pqjc.buzz, port: 443, type: vmess, uuid: 27509613-bbd5-403a-868c-8022d36aa565, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/pq/fr1?ed=2048", headers: {Host: fr1.pqjc.buzz}}}
+  - {name: Cyber_3861, server: germany1.yj2022.ga, port: 443, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /XQ2WCa29jfDMGBcbnQ, headers: {Host: germany1.yj2022.ga}}}
+  - {name: Cyber_3862, server: ca-nnc.ilovescp.com, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: ca-nnc.ilovescp.com}}}
+  - {name: Cyber_3863, server: zfc.windowsupdate1.com, port: 443, type: vmess, uuid: 27509613-bbd5-403a-868c-8022d36aa565, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: "/pq/nl1?ed=2048", headers: {Host: nl1.pqjc.buzz}}}
+  - {name: Cyber_3865, server: vuk2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /chat, headers: {Host: vuk2.0bad.com}}}
+  - {name: Cyber_3867, server: 203.30.190.1, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ECTCJ0DF, headers: {Host: 154.v2ray3.xyz}}}
+  - {name: Cyber_3872, server: america1.yj2022.ga, port: 443, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vAambj4DgXrs5sfCFptMk, headers: {Host: america1.yj2022.ga}}}
+  - {name: Cyber_3874, server: hk-hytron.ilovescp.com, port: 443, type: vmess, uuid: 823c31da-701f-483d-b36e-896e5cf0987a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: hk-hytron.ilovescp.com}}}
 
 
 proxy-groups:
@@ -4364,44 +4345,25 @@ proxy-groups:
       - Cyber_3827
       - Cyber_3828
       - Cyber_3830
-      - Cyber_3835
-      - Cyber_3837
       - Cyber_3838
-      - Cyber_3839
       - Cyber_3840
-      - Cyber_3841
       - Cyber_3843
-      - Cyber_3844
-      - Cyber_3864
+      - Cyber_3845
+      - Cyber_3847
+      - Cyber_3851
+      - Cyber_3852
+      - Cyber_3854
+      - Cyber_3855
+      - Cyber_3856
+      - Cyber_3857
+      - Cyber_3860
+      - Cyber_3861
+      - Cyber_3862
+      - Cyber_3863
+      - Cyber_3865
       - Cyber_3867
-      - Cyber_3868
-      - Cyber_3869
-      - Cyber_3870
-      - Cyber_3871
-      - Cyber_3873
+      - Cyber_3872
       - Cyber_3874
-      - Cyber_3876
-      - Cyber_3877
-      - Cyber_3878
-      - Cyber_3885
-      - Cyber_3886
-      - Cyber_3887
-      - Cyber_3890
-      - Cyber_3893
-      - Cyber_3897
-      - Cyber_3898
-      - Cyber_3906
-      - Cyber_3913
-      - Cyber_3914
-      - Cyber_3915
-      - Cyber_3918
-      - Cyber_3919
-      - Cyber_3924
-      - Cyber_3926
-      - Cyber_3927
-      - Cyber_3930
-      - Cyber_3936
-      - Cyber_3940
 
 
 
@@ -6521,44 +6483,25 @@ proxy-groups:
       - Cyber_3827
       - Cyber_3828
       - Cyber_3830
-      - Cyber_3835
-      - Cyber_3837
       - Cyber_3838
-      - Cyber_3839
       - Cyber_3840
-      - Cyber_3841
       - Cyber_3843
-      - Cyber_3844
-      - Cyber_3864
+      - Cyber_3845
+      - Cyber_3847
+      - Cyber_3851
+      - Cyber_3852
+      - Cyber_3854
+      - Cyber_3855
+      - Cyber_3856
+      - Cyber_3857
+      - Cyber_3860
+      - Cyber_3861
+      - Cyber_3862
+      - Cyber_3863
+      - Cyber_3865
       - Cyber_3867
-      - Cyber_3868
-      - Cyber_3869
-      - Cyber_3870
-      - Cyber_3871
-      - Cyber_3873
+      - Cyber_3872
       - Cyber_3874
-      - Cyber_3876
-      - Cyber_3877
-      - Cyber_3878
-      - Cyber_3885
-      - Cyber_3886
-      - Cyber_3887
-      - Cyber_3890
-      - Cyber_3893
-      - Cyber_3897
-      - Cyber_3898
-      - Cyber_3906
-      - Cyber_3913
-      - Cyber_3914
-      - Cyber_3915
-      - Cyber_3918
-      - Cyber_3919
-      - Cyber_3924
-      - Cyber_3926
-      - Cyber_3927
-      - Cyber_3930
-      - Cyber_3936
-      - Cyber_3940
 
 
   - name: ⛔Direct
